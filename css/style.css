@@ -206,25 +206,20 @@ section.herobut{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  //background-color: blue;
   margin-right: 3vw;
 }
 
 section.herobut span{
   font-size: 2.5vw;
-  display: inline;
   margin-bottom: 2vw;
+  white-space: nowrap;
 }
 
 section.hero section.button{
-  margin-left: 3vw;
-  margin-right: 3vw;
-  //display: flex;
-  white-space: nowrap;
-  //justify-content: center;
+  display: flex;
+  justify-content: center;
   font-size: 1.7vw;
   text-decoration: underline;
-  //position: relative;
   z-index: 10;
 }
 
