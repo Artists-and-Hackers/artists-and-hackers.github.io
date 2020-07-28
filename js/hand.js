@@ -19,7 +19,7 @@ let rightSide = rect2.right
 
 
 let links = document.querySelectorAll('a')
-let underline = document.querySelectorAll('u')
+let underline = document.querySelectorAll('a.face')
 let socialMedia = document.querySelectorAll('section.socialmedia div')
 let button = document.querySelectorAll('section.button')
 
