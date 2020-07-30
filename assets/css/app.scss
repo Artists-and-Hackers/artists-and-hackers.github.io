@@ -1,0 +1,148 @@
+---
+---
+
+//Typography
+@import url("https://use.typekit.net/kee8qyq.css");
+$type: stratos;
+$body-line-height: 1.3;
+  //Type Sizes
+  $h1-size: 5.5vw;
+  $h2-size: 3.5vw;
+  $h3-size: 2.3vw;
+  $h4-size: 1.7vw;
+  $h5-size: 1.2vw;
+
+
+
+
+//colors
+$red: #E7511C;
+$blue: #5584A4;
+$yellow: #FECC2F;
+$green: #35AC7D;
+
+//body margins
+$top-margin: 1vw;
+$outer-margin: 2vw;
+$inner-margin: 10vw;
+
+//episode margins
+$episode-inner: 1vw;
+$episode-body-top: 48px;
+$episode-body-bottom: 80px;
+$episode-body-left: 2vw;
+
+body{
+  font-family: $type;
+}
+
+//text size setup
+  h1{
+    font-size: $h1-size;
+  }
+  h2{
+    font-size: $h2-size;
+  }
+  h3{
+    font-size: $h3-size;
+  }
+  h4{
+    font-size: $h4-size;
+  }
+  h5{
+    font-size: $h5-size;
+  }
+
+section.header{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: $top-margin;
+  margin-left: $outer-margin;
+  margin-right: $outer-margin;
+
+
+}
+
+section.navbar{
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: $top-margin;
+  margin-left: $outer-margin;
+  margin-right: $outer-margin;
+
+  nav a{
+    font-size: $h2-size;
+    color: black;
+  }
+  nav a:hover{
+    color: $red;
+  }
+}
+
+section.hero{
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  padding-left: $inner-margin;
+  padding-right: $inner-margin;
+
+  div{
+    width: 100%;
+    background-color: white;
+    border: solid 4px black;
+    padding: $episode-inner;
+
+    h3{
+      margin-top: $episode-body-top;
+      margin-bottom:$episode-body-bottom;
+      margin-left: $episode-body-left;
+      width: 60%;
+      line-height: $body-line-height;
+    }
+
+    div.tags{
+      display: flex;
+      margin-left: $episode-body-left;
+      width: auto;
+      border: none;
+      padding: 0;
+
+      h5{
+        margin-right: 32px;
+      }
+      h5.tag1{
+        color: $green;
+      }
+      h5.tag2{
+        color: $red;
+      }
+      h5.tag3{
+        color: $blue;
+      }
+    }
+  }
+  div.arrow{
+    position: absolute;
+    display: flex;
+    width: auto;
+    border: none;
+    background-color: rgba(0,0,0,0);
+    padding: 0;
+    left: 0;
+    bottom: $top-margin;
+    width: 100%;
+    justify-content: center;
+  }
+}
