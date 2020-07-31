@@ -4,7 +4,7 @@
 //Typography
 @import url("https://use.typekit.net/kee8qyq.css");
 $type: stratos;
-$body-line-height: 1.3;
+$body-line-height: 1.4;
   //Type Sizes
   $h1-size: 5.5vw;
   $h2-size: 3.5vw;
@@ -34,6 +34,7 @@ $episode-body-left: 2vw;
 
 body{
   font-family: $type;
+
 }
 
 //text size setup
@@ -45,12 +46,21 @@ body{
   }
   h3{
     font-size: $h3-size;
+    line-height: $body-line-height;
   }
   h4{
     font-size: $h4-size;
   }
   h5{
     font-size: $h5-size;
+  }
+
+//Link setup
+  a{
+    color: black;
+  }
+  a:hover{
+    color: $red;
   }
 
 section.header{
@@ -65,8 +75,6 @@ section.header{
   margin-top: $top-margin;
   margin-left: $outer-margin;
   margin-right: $outer-margin;
-
-
 }
 
 section.navbar{
@@ -84,10 +92,28 @@ section.navbar{
 
   nav a{
     font-size: $h2-size;
-    color: black;
   }
-  nav a:hover{
-    color: $red;
+}
+
+section.parallax{
+  img{
+    z-index: -1;
+  }
+  div.computer img{
+    position: absolute;
+    max-width: 50%;
+    height: auto;
+    overflow: hidden;
+
+  }
+  div.dial img{
+    position: absolute;
+    right: 0px;
+    top: 75vh;
+    max-height: 80vh;
+    max-width: 50%;
+    height: auto;
+    overflow: hidden;
   }
 }
 
@@ -109,7 +135,6 @@ section.hero{
       margin-bottom:$episode-body-bottom;
       margin-left: $episode-body-left;
       width: 60%;
-      line-height: $body-line-height;
     }
 
     div.tags{
@@ -133,16 +158,28 @@ section.hero{
       }
     }
   }
-  div.arrow{
+  a.arrow{
+    width: 30px;
     position: absolute;
-    display: flex;
-    width: auto;
-    border: none;
-    background-color: rgba(0,0,0,0);
-    padding: 0;
     left: 0;
-    bottom: $top-margin;
-    width: 100%;
-    justify-content: center;
+    right: 0;
+    bottom: $top-margin * 2;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+section.about{
+  display: grid;
+  grid-template-columns: 3fr auto;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  padding-left: $inner-margin;
+  padding-right: $inner-margin;
+  grid-column-gap: auto;
+
+  section.abouttxt{
+    width: 75%;
   }
 }
