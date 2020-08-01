@@ -1,0 +1,24 @@
+<section class="episode-page">
+  <div>
+    <h4>{{ page.display-date }}</h4>
+    <h2>{{ page.episode-number }} - {{ page.title }}</h2>
+  </div>
+  <section class="episode-content">
+    <h3>{{ page.description }}</h3>
+    <div class="tags">
+      <h3>Tags:</h3>
+      <h5 class="tag1">
+        {{ page.tags[0] }}
+      </h5>
+      <h5 class="tag2">
+        {{ page.tags[1] }}
+      </h5>
+      <h5 class="tag3">
+        {{ page.tags[2] }}
+      </h5>
+    </div>
+    <section>
+      {{ content }}
+    </section>
+  </section>
+</section>

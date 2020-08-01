@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<section class="episode-list-container">
+  {% include episode-organizing-bar.html %}
+  {% for post in site.posts %}
+    {% include episode.html %}
+  {% endfor %}
+</section>

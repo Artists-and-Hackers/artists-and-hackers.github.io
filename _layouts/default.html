@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Artists and Hackers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/reset.css">
-    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="{{ '/assets/css/reset.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}" />
   </head>
   <body>
     {% include header.html %}
@@ -15,6 +15,6 @@
       {{ content }}
     </section>
 
-    <script src="assets/js/parallax.js"></script>
+    <script src="{{ 'assets/js/parallax.js' | relative_url }}"></script>
   </body>
 </html>
