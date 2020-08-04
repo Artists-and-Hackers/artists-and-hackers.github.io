@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode-number: Ep. 1
 title:  "Critical Code"
 date:   2020-07-30 12:02:19 -0400

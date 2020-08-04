@@ -1,7 +1,7 @@
 <section class="episode-page">
   <div class="bigdisplay">
-    <h4>{{ page.display-date }}</h4>
-    <h2>{{ page.episode-number }} - {{ page.title }}</h2>
+    <h4>Related Episodes - {{ page.related-episode }}</h4>
+    <h2>{{ page.title }}</h2>
   </div>
   <section class="episode-content">
     <h3>{{ page.description }}</h3>
@@ -18,12 +18,17 @@
           {{ page.tags[2] }}
         </h5>
       </div>
-      <div class="tools-discussed">
-        <h3>Tools:</h3>
-        <h5></h5>
-      </div>
 
+      <div class="contributors">
+        <h3>Creator:</h3>
+        <h5 class="tag1">
+          {{ page.creator }}
+        </h5>
+      </div>
     </div>
+
+
+
     <section>
       {{ content }}
     </section>

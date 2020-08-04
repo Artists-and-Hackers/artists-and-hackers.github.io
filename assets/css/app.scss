@@ -32,6 +32,25 @@ $episode-body-top: 48px;
 $episode-body-bottom: 80px;
 $episode-body-left: 2vw;
 
+//animation for links
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+  nav:hover, div.title:hover, section.button:hover, section.hero div h2:hover, div.ep-title:hover, a:hover, section.contact-list a:hover{
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+  }
+
 body{
   font-family: $type;
 
@@ -183,6 +202,10 @@ section.about{
     width: 75%;
   }
 }
+section.team{
+  display: flex;
+  flex-direction: row-reverse;
+}
 
 section.episode-page{
   display: grid;
@@ -190,11 +213,10 @@ section.episode-page{
   margin-top: 8vw;
   margin-left: $inner-margin;
   margin-right: $inner-margin;
-  div{
+  div.bigdisplay{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 100%;
     height: 50vh;
     background-color: $yellow;
     border: solid 4px black;
@@ -211,17 +233,24 @@ section.episode-page{
       width: 75%;
     }
     div.tags{
-      background-color: white;
+      display: flex;
+      flex-direction: column;
       height: auto;
 
-      h3{
-        line-height: 1;
+      div{
+        background-color: white;
+        border: solid 4px black;
+        padding: $episode-inner;
         margin-bottom: $episode-inner;
-      }
 
-      h5{
-        margin-bottom: .5vw;
-        color: data-color;
+        h3{
+          line-height: 1;
+          margin-bottom: $episode-inner;
+        }
+        h5{
+          margin-bottom: .5vw;
+          color: data-color;
+        }
       }
     }
   }
@@ -283,7 +312,6 @@ section.episode-organizing-bar{
   div{
     display: flex;
     justify-content: space-between;
-    width: 100%;
     background-color: white;
     border: solid 4px black;
     padding: $episode-inner;
@@ -300,5 +328,66 @@ section.episode-organizing-bar{
       font-family: $type;
       font-size: $h4-size;
     }
+  }
+}
+
+section.tool-list-container{
+  section.tool-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: $episode-body-top;
+    margin-left: $inner-margin;
+    margin-right: $inner-margin;
+
+    section.tool{
+      border: solid 4px black;
+      padding: $episode-inner;
+      background-color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: auto;
+
+      h3{
+        margin-top: $episode-body-left;
+        margin-bottom:$episode-body-left;
+        margin-left: $episode-body-left;
+      }
+
+      div.tags{
+        display: flex;
+        //margin-left: $episode-body-left;
+        width: auto;
+        border: none;
+        padding: 0;
+
+        h5{
+          margin-right: 32px;
+        }
+        h5.tag1{
+          color: $green;
+        }
+        h5.tag2{
+          color: $red;
+        }
+        h5.tag3{
+          color: $blue;
+        }
+      }
+
+    }
+  }
+}
+
+section.contact-list{
+  display: flex;
+  flex-direction: column;
+  margin-top: 5vw;
+  margin-left: $inner-margin;
+  margin-right: $inner-margin;
+  line-height: 1.2;
+
+  a{
+    font-size: 16vw;
   }
 }
