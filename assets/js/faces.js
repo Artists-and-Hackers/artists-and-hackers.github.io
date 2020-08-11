@@ -1,28 +1,23 @@
-let underline = document.querySelectorAll('a.face')
+let link = document.querySelectorAll('a.face')
 let popup = document.querySelector('div.popup')
 
+link.forEach((tag) => {
+  tag.addEventListener("mouseover", function(){
+    let face
 
-function draw(){
-underline.forEach(tag => {
-    let rect = tag.getBoundingClientRect()
-    if (mouseX > rect.left && mouseX < rect.right && mouseY < rect.bottom && mouseY > rect.top) {
-      let face
-      console.log("Hello");
-      if (tag.id == "Lee") {
-        face = "url('{{site.baseurl}}/assets/images/lee.png')"
-        console.log("lee");
-      }
-      if (tag.id == "Maya") {
-        face = "url('{{site.baseurl}}/assets/images/maya.png')"
-      }
-      if (tag.id == "Caleb") {
-        face = "url('{{site.baseurl}}/assets/images/caleb.png')"
-      }
-      popup.style.backgroundImage = face
-    } else {
-      //popup.style.backgroundImage = "url('')"
-      tag.style.color = "black"
-
+    if (tag.id == "Lee") {
+      face = "url('assets/images/lee.png')"
     }
+    else if (tag.id == "Maya") {
+      face = "url('assets/images/maya.png')"
+    }
+    else if (tag.id == "Caleb") {
+      face = "url('assets/images/caleb.png')"
+    }
+
+    popup.style.backgroundImage = face
   })
-}
+  tag.addEventListener("mouseout", function(){
+    popup.style.backgroundImage = ""
+  })
+});
