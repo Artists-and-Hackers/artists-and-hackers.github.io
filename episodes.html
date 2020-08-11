@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<section class="episode-list-container">
-  {% include episode-organizing-bar.html %}
+{% include episode-organizing-bar.html %}
+<section class="episode-list-container" id="list">
   {% for post in site.categories.podcasts %}
     {% include episode.html %}
   {% endfor %}
