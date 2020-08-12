@@ -7,6 +7,7 @@ display-date: July 30th, 2020
 categories: Episode
 description: "Sarah Groff-Palermo, Ramsey Nasser, and Daniel Temkin discuss their artistic practices involving the use of invented languages."
 tags: ["Coding Languages", "Livecoding", "Technological Criticality"]
+code_tags: ["coding_languages", " ", "livecoding", " ", "technological_criticality"]
 ---
 ## A
 
