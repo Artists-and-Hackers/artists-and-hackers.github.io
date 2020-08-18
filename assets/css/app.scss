@@ -66,7 +66,7 @@ body{
   h2{
     font-size: $h2-size;
   }
-  h3, p{
+  h3{
     font-size: $h3-size;
     line-height: $body-line-height;
   }
@@ -97,6 +97,77 @@ section.header{
   margin-top: $top-margin;
   margin-left: $outer-margin;
   margin-right: $outer-margin;
+
+  div.pod_player{
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 32vw;
+    height: 4vw;
+    border: solid 4px black;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: white;
+
+    div.progress{
+      margin-right: $episode-inner;
+    }
+    progress{
+      border: solid 2px black;
+      height: 1vw;
+    }
+    progress[value]::-webkit-progress-bar {
+      -webkit-appearance: none;
+      appearance: none;
+      background-color: white;
+    }
+    progress[value]::-webkit-progress-value {
+      background-color: $blue;
+    }
+
+    div.playhead{
+      position: absolute;
+      width: .5vw;
+      height: 2vw;
+      border: solid 4px black;
+      background-color: white;
+      left: 0;
+      transform: translate(-50%);
+    }
+
+
+
+    div.plButt{
+      //background-color: $red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: $episode-inner;
+
+      svg{
+        width: 3vw;
+        height: 3vw;
+        fill: black;
+      }
+      svg:hover{
+        fill: $red;
+      }
+    }
+
+
+    div.progress{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+
+      progress{
+        margin-left: $episode-inner;
+        margin-right: $episode-inner;
+      }
+    }
+  }
 }
 
 section.navbar{
@@ -239,13 +310,31 @@ section.episode-page{
   margin-right: $inner-margin;
   div.bigdisplay{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     height: 50vh;
-    background-color: $yellow;
+    //background-color: $yellow;
     border: solid 4px black;
     padding: $episode-inner;
     margin-bottom: $outer-margin;
+
+    div{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    div.playButton{
+      justify-content: flex-end;
+
+      svg{
+        fill: black;
+        height: 4vw;
+        width: 4vw;
+      }
+      svg:hover{
+        fill: $red;
+      }
+    }
   }
   section.episode-content{
     display: grid;
@@ -253,6 +342,12 @@ section.episode-page{
     justify-content: space-between;
     grid-column-gap: auto;
 
+    p{
+      font-family: Times;
+      width: 75%;
+      font-size: $h4-size;
+      line-height: $body-line-height;
+    }
     h3{
       width: 75%;
     }
@@ -285,17 +380,15 @@ section.episode-list-container{
   flex-direction: column;
 
   section.episode{
-    display: grid;
-    grid-template-rows: 1fr;
+    display: flex;
     margin-left: $inner-margin;
     margin-right: $inner-margin;
     margin-bottom: $episode-body-top;
-
+    background-color: white;
+    border: solid 4px black;
 
     div{
-      width: 100%;
-      background-color: white;
-      border: solid 4px black;
+
       padding: $episode-inner;
 
       h3{
@@ -309,7 +402,7 @@ section.episode-list-container{
         display: flex;
         margin-left: $episode-body-left;
         width: auto;
-        border: none;
+
         padding: 0;
 
         h5{
@@ -326,7 +419,26 @@ section.episode-list-container{
         }
       }
     }
+    div.play_butt{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-right: 4vw;
+
+      a:hover{
+        animation: none;
+      }
+      svg{
+        width: 8vw;
+        fill: black;
+      }
+      svg:hover{
+        fill: $red;
+      }
+    }
   }
+
 }
 
 section.episode-organizing-bar{
@@ -343,7 +455,6 @@ section.episode-organizing-bar{
     background-color: white;
     border: solid 4px black;
     padding: $episode-inner;
-    width: 100%;
 
     input{
       border: none;

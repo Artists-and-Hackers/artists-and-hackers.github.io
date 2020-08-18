@@ -24,27 +24,25 @@ subject.addEventListener("change", function(){
 
     //All Subjects
     if (selected == "") {
-      tag.style.display = "grid"
+      tag.style.display = "flex"
       console.log(tag.classList.contains('technological_criticality'));
     }
 
     //Livecoding
     if (selected == "Livecoding") {
-
       if (tag.classList.contains('livecoding')) {
-        tag.style.display = "grid"
+        tag.style.display = "flex"
       }
       if (tag.classList.contains('livecoding') == false) {
         tag.style.display = "none"
       }
-
     }
 
     //Technological Criticality
     if (selected == "Technological Criticality") {
       console.log(tag.classList);
       if (tag.classList.contains('technological_criticality')) {
-        tag.style.display = "grid"
+        tag.style.display = "flex"
       }
       if (tag.classList.contains('technological_criticality') == false) {
         tag.style.display = "none"

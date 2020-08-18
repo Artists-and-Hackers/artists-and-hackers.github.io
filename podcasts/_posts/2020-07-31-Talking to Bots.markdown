@@ -7,5 +7,5 @@ display-date: July 31th, 2020
 categories: Episode
 description: "Grayson Earle, Sam Lavigne, Francis Tseng, and Brian Clifton describe the tools they have created to subvert digital hegemony and aid in global protest"
 tags: ["Radical Technology", "Technological Criticality"]
-code_tags: ["radical_technology", " ", "technological_criticality"]
+code_tags: ["radical_technology", "technological_criticality"]
 ---
