@@ -14,9 +14,9 @@ let progress = document.querySelector('progress')
 let playhead = document.querySelector('div.playhead')
 
 //Temporary for development, delete later
-player.style.display = "flex"
-podDescription.style.display = "none"
-headerPause.style.display = "none"
+// player.style.display = "flex"
+// podDescription.style.display = "none"
+// headerPause.style.display = "none"
 
 
 //make audioplayer height the same as the header
@@ -28,6 +28,7 @@ player.style.height = headerHeight + "px"
 
 audioSource.src = url
 audio.load()
+
 
 playButton.addEventListener("click", function(){
   player.style.display = "flex"
@@ -79,19 +80,6 @@ audio.addEventListener("timeupdate", function(){
     playhead.style.left = playheadMove + "px"
 
     //move playhead
-      // playhead.addEventListener("mousedown", function(event){
-      //   audio.pause()
-      //   player.addEventListener("mousemove", function(tag){
-      //     let mouseX = tag.clientX
-      //     let mousePos = mouseX - progressBox.left + playheadOrigin
-      //     playhead.style.left = mousePos + "px"
-      //
-      //   })
-      // })
-      // playhead.addEventListener("mouseup", function(event){
-      //   let mouseXFinal = mousePos
-      //   playhead.style.left = mouseXFinal + "px"
-      // })
       progress.addEventListener("click", function(event){
         let mouseX = event.clientX
         let mouseRelative = mouseX - progressBox.left
@@ -101,8 +89,7 @@ audio.addEventListener("timeupdate", function(){
         audio.currentTime = selectedTime
         audio.play
 
-
-
+        //Think about onmousemove to get it to be dragable!
       })
 
 })

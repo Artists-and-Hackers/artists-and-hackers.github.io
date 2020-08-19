@@ -87,6 +87,7 @@ body{
 
 section.header{
   position: fixed;
+  z-index: 2;
   top: 0px;
   left: 0px;
   right: 0px;
@@ -452,10 +453,30 @@ section.episode-organizing-bar{
   div{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: white;
     border: solid 4px black;
     padding: $episode-inner;
 
+    #search-container{
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      align-self: flex-start;
+      align-items: flex-start;
+
+      ul{
+        font-size: $h4-size;
+        li{
+          margin-top: $episode-inner;
+        }
+      }
+    }
+    #placeholder{
+      padding: 0px;
+      margin: 0px;
+      border: none;
+    }
     input{
       border: none;
       border-bottom: 3px solid black;
