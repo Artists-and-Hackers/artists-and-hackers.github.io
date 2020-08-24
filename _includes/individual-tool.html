@@ -1,22 +1,21 @@
 <section class="episode-page">
   <div class="bigdisplay">
-    <h4>Related Episodes - {{ page.related-episode }}</h4>
-    <h2>{{ page.title }}</h2>
+    <div>
+      <h4>Related Episodes - {{ page.related-episode }}</h4>
+      <h2>{{ page.title }}</h2>
+    </div>
   </div>
   <section class="episode-content">
     <h3>{{ page.description }}</h3>
     <div class="tags">
       <div class="categories">
         <h3>Tags:</h3>
-        <h5 class="tag1">
-          {{ page.tags[0] }}
+        {% assign allTags = page.tags %}
+        {% for tag in allTags %}
+        <h5 class="tag">
+          {{ tag }}
         </h5>
-        <h5 class="tag2">
-          {{ page.tags[1] }}
-        </h5>
-        <h5 class="tag3">
-          {{ page.tags[2] }}
-        </h5>
+        {% endfor %}
       </div>
 
       <div class="contributors">

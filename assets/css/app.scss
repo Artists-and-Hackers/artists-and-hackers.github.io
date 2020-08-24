@@ -98,9 +98,79 @@ canvas{
   z-index: 10;
 }
 
+section.signup{
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  left: auto;
+  display: none;
+  z-index: 8;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255,255,255, .9);
+
+  div.back{
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 4vw;
+  padding-left: 2vw;
+  }
+  div.back:hover{
+  color: #E7511C;
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+  }
+
+  label{
+  font-family: stratos;
+  font-size: 5.5vw;
+  }
+  div.mc-field-group{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+  }
+  input.email{
+    border: none;
+    border-bottom: 3px solid black;
+    width: 90vw;
+    outline: none;
+    background-color: rgba(0,0,0,0);
+    font-family: stratos;
+    font-size: 5.5vw;
+    cursor: inherit;
+  }
+  div.clear{
+    //background-color: blue;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  input.button{
+    margin-top: 10vh;
+    border: none;
+    outline: none;
+    background-color: rgba(0,0,0,0);
+    //background-color: red;
+    font-family: stratos;
+    font-size: 4vw;
+    text-decoration: underline;
+    cursor: inherit;
+    position: absolute;
+    bottom: $inner-margin;
+  }
+  input.button:hover{
+    color: #E7511C;
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+  }
+}
+
 section.header{
   position: fixed;
-  z-index: 2;
+  z-index: 9;
   top: 0px;
   left: 0px;
   right: 0px;
@@ -235,6 +305,19 @@ section.hero{
   padding-left: $inner-margin;
   padding-right: $inner-margin;
 
+  div.titleHero{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    border: none;
+    padding: 0px;
+
+    h4{
+      color: $red;
+      margin-left: 32px;
+    }
+  }
   div{
     width: 100%;
     background-color: white;
@@ -559,10 +642,13 @@ section.tool-list-container{
 section.contact-list{
   display: flex;
   flex-direction: column;
-  margin-top: 6vw;
+
   margin-left: $inner-margin;
   margin-right: $inner-margin;
 
+  div{
+    margin-top: 6vw;
+  }
   a{
     font-size: 16vw;
     margin-bottom: 2vw;

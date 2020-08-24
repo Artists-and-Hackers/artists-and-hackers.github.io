@@ -1,7 +1,10 @@
 <section class="hero">
   <div>
     {% for post in site.categories.podcasts limit:1 %}
-      <h2> <a href="{{ post.url }}">{{ post.episode-number }} - {{ post.title }}</a></h2>
+      <div class="titleHero">
+        <h2> <a href="{{ post.url }}">{{ post.episode-number }} - {{ post.title }}</a></h2>
+        <h4>NEW EPISODE!</h4>
+      </div>
       <h3>{{ post.description }}</h3>
       <div class="tags">
         {% assign allTags = post.tags %}
@@ -10,6 +13,7 @@
           {{ tag }}
         </h5>
         {% endfor %}
+
       </div>
     {% endfor %}
   </div>
