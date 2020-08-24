@@ -6,9 +6,10 @@ layout: none
     {
 
       "title"    : "{{ post.title | escape }}",
+      "people"   : "{{ post.people | join: ', '}}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
+      "description" : "{{ post.description }}",
       "date"     : "{{ post.date }}"
 
     } {% unless forloop.last %},{% endunless %}

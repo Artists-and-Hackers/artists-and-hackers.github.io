@@ -5,7 +5,10 @@ title:  "Critical Code"
 date:   2020-07-30 12:02:19 -0400
 display-date: July 30th, 2020
 categories: Episode
+header-image: "/assets/images/episode_images/talking.gif"
+header-color: "#5584A4"
 description: "Sarah Groff-Palermo, Ramsey Nasser, and Daniel Temkin discuss their artistic practices involving the use of invented languages."
+people: ["Sarah Groff-Palermo", "Ramsey Nasser", "Daniel Temkin"]
 tags: ["Coding Languages", "Livecoding", "Technological Criticality"]
 code_tags: ["coding_languages", "livecoding", "technological_criticality"]
 fileLink: "https://mcdn.podbean.com/mf/web/amtw46/NEWEST_NEW_EPISODEb5jcn.mp3"

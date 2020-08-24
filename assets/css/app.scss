@@ -56,7 +56,7 @@ $background-image: none;
 
 body{
   font-family: $type;
-
+  cursor: none;
 }
 
 //text size setup
@@ -83,7 +83,20 @@ body{
   }
   a:hover{
     color: $red;
+    cursor: none;
   }
+
+#mouseHand{
+  display: none;
+}
+
+canvas{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  pointer-events: none;
+  z-index: 10;
+}
 
 section.header{
   position: fixed;
@@ -184,6 +197,10 @@ section.navbar{
   margin-left: $outer-margin;
   margin-right: $outer-margin;
 
+
+  nav{
+    //margin-top: $top-margin;
+  }
   nav a{
     font-size: $h2-size;
   }
@@ -240,15 +257,6 @@ section.hero{
 
       h5{
         margin-right: 32px;
-      }
-      h5.tag1{
-        color: $green;
-      }
-      h5.tag2{
-        color: $red;
-      }
-      h5.tag3{
-        color: $blue;
       }
     }
   }
@@ -309,15 +317,22 @@ section.episode-page{
   margin-top: 8vw;
   margin-left: $inner-margin;
   margin-right: $inner-margin;
+
+
   div.bigdisplay{
+    background-color: $yellow;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     height: 50vh;
-    //background-color: $yellow;
+    //background-image: url({{ post.header-image }});
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: screen;
     border: solid 4px black;
     padding: $episode-inner;
     margin-bottom: $outer-margin;
+
 
     div{
       display: flex;
@@ -337,6 +352,7 @@ section.episode-page{
       }
     }
   }
+
   section.episode-content{
     display: grid;
     grid-template-columns: 3fr auto;
