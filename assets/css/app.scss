@@ -4,7 +4,7 @@
 //Typography
 @import url("https://use.typekit.net/kee8qyq.css");
 $type: stratos;
-$body-line-height: 1.4;
+$body-line-height: 1.5;
   //Type Sizes
   $h1-size: 5.5vw;
   $h2-size: 3.5vw;
@@ -456,12 +456,12 @@ section.episode-page{
 
     p{
       font-family: Times;
-      width: 75%;
-      font-size: $h4-size;
+      width: 80%;
+      font-size: $h3-size;
       line-height: $body-line-height;
     }
     h3{
-      width: 75%;
+      width: 80%;
     }
     div.tags{
       display: flex;
@@ -479,7 +479,7 @@ section.episode-page{
           margin-bottom: $episode-inner;
         }
         h5{
-          margin-bottom: .5vw;
+          line-height: 1.5;
           color: data-color;
         }
       }
@@ -490,6 +490,7 @@ section.episode-page{
 section.episode-list-container{
   display: flex;
   flex-direction: column;
+  margin-bottom: 5vw;
 
   section.episode{
     display: flex;
@@ -604,6 +605,7 @@ section.tool-list-container{
     grid-gap: $episode-body-top;
     margin-left: $inner-margin;
     margin-right: $inner-margin;
+    margin-bottom: 5vw;
 
     section.tool{
       border: solid 4px black;
@@ -615,9 +617,10 @@ section.tool-list-container{
       height: auto;
 
       h3{
-        margin-top: $episode-body-left;
-        margin-bottom:$episode-body-left;
+        margin-top: $episode-body-top;
+        margin-bottom:$episode-body-bottom;
         margin-left: $episode-body-left;
+        width: 80%;
       }
 
       div.tags{
@@ -629,15 +632,6 @@ section.tool-list-container{
 
         h5{
           margin-right: 32px;
-        }
-        h5.tag1{
-          color: $green;
-        }
-        h5.tag2{
-          color: $red;
-        }
-        h5.tag3{
-          color: $blue;
         }
       }
 
@@ -663,6 +657,9 @@ section.contact-list{
 
 @media screen and (max-width: 800px) {
   //canvas
+  body{
+    cursor: auto;
+  }
     canvas{
       display: none;
     }
@@ -672,16 +669,27 @@ section.contact-list{
       font-size: 7vw;
     }
     h2{
-      font-size: 5vw;
+      font-size: 6vw;
     }
     h3{
-      font-size: 3.5vw;
+      font-size: 4vw;
     }
     h4{
-      font-size: 2.5vw;
+      font-size: 3vw;
     }
     h5{
-      font-size: 2.5vw;
+      font-size: 3vw;
+    }
+
+    nav:hover, div.title:hover, section.button:hover, section.hero div h2:hover, div.ep-title:hover, a:hover, section.contact-list a:hover{
+      animation: shake 1s;
+      animation-iteration-count: infinite;
+    }
+
+    section.header{
+      div.description{
+        display: none;
+      }
     }
 
 
@@ -717,7 +725,14 @@ section.contact-list{
         margin-left: 5vw;
         margin-right: 5vw;
 
+        div.play_butt{
+          display: none;
+        }
+
         div{
+          h3{
+            width: auto;
+          }
           div.tags{
             h5{
               margin-right: 3vw;
@@ -758,7 +773,7 @@ section.contact-list{
       }
       p{
         width: 75%;
-        font-size: 2.5vw;
+        font-size: 3vw;
       }
       h3.description{
         order: 2;
@@ -902,6 +917,95 @@ section.contact-list{
       display: flex;
       flex-direction: column;
       justify-content: center;
+    }
+  }
+
+  //about
+  section.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    section.abouttxt{
+      width: 100%;
+    }
+
+    section.button{
+      margin-top: 5vw;
+      display: flex;
+      justify-content: center;
+      a{
+        h4{
+          animation: shake 1s;
+          animation-iteration-count: infinite;
+          font-size: 4vw;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.pod_player{
+    border: solid 2px black;
+  }
+  div.playhead{
+    border: solid 2px black;
+  }
+  section.hero{
+    div{
+      h3{
+        width: 100%;
+      }
+    }
+    div{
+      border: solid 2px black;
+    }
+  }
+  section.episode-page{
+    div.bigdisplay{
+      border: solid 2px black;
+    }
+    section.episode-content{
+      div.tags{
+        div{
+          border: solid 2px black;
+        }
+      }
+      h3.description{
+        font-size: 6vw;
+      }
+      section{
+        p{
+          width: 100%;
+          font-size: 4.5vw;
+        }
+      }
+    }
+  }
+  section.episode-list-container{
+    section.episode{
+      border: solid 2px black;
+    }
+  }
+  section.tool-list-container{
+    section.tool-grid{
+      section.tool{
+        border: solid 2px black;
+      }
+    }
+  }
+  section.episode-organizing-bar{
+    div{
+      border: solid 2px black;
+      input{
+        border-bottom: solid 2px black;
+      }
+      select{
+        border-bottom: solid 2px black;
+      }
     }
   }
 }
