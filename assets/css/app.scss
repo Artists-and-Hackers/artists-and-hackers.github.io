@@ -12,7 +12,10 @@ $body-line-height: 1.4;
   $h4-size: 1.7vw;
   $h5-size: 1.2vw;
 
-
+//Breakpoints
+$breakpoints: (phone: 640px,
+               tablet: 768px,
+               desktop: 1024px) !default;
 
 
 //colors
@@ -260,7 +263,7 @@ section.navbar{
   left: 0px;
   right: 0px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   margin-bottom: $top-margin;
@@ -273,6 +276,15 @@ section.navbar{
   }
   nav a{
     font-size: $h2-size;
+  }
+  div.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+  div.pod_player{
+    display: none;
   }
 }
 
@@ -508,15 +520,6 @@ section.episode-list-container{
         h5{
           margin-right: 32px;
         }
-        h5.tag1{
-          color: $green;
-        }
-        h5.tag2{
-          color: $red;
-        }
-        h5.tag3{
-          color: $blue;
-        }
       }
     }
     div.play_butt{
@@ -581,8 +584,11 @@ section.episode-organizing-bar{
       border-bottom: 3px solid black;
       font-family: $type;
       font-size: $h4-size;
+
     }
     select{
+      appearance: none;
+      background-color: white;
       border: none;
       border-bottom: 3px solid black;
       font-family: $type;
@@ -652,5 +658,250 @@ section.contact-list{
   a{
     font-size: 16vw;
     margin-bottom: 2vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  //canvas
+    canvas{
+      display: none;
+    }
+
+  //font Sizes
+    h1{
+      font-size: 7vw;
+    }
+    h2{
+      font-size: 5vw;
+    }
+    h3{
+      font-size: 3.5vw;
+    }
+    h4{
+      font-size: 2.5vw;
+    }
+    h5{
+      font-size: 2.5vw;
+    }
+
+
+  // episode list page
+    section.episode-organizing-bar{
+      margin-left: 5vw;
+      margin-right: 5vw;
+
+      div{
+        #search-container{
+          ul{
+            font-size: 2.5vw;;
+          }
+        }
+        #placeholder{
+          padding: 0px;
+          margin: 0px;
+          border: none;
+        }
+        input{
+          font-size: 2.5vw;
+          background-color: none;
+        }
+        select{
+          font-size: 2.5vw;
+        }
+      }
+    }
+    //episode list
+    section.episode-list-container{
+      section.episode{
+
+        margin-left: 5vw;
+        margin-right: 5vw;
+
+        div{
+          div.tags{
+            h5{
+              margin-right: 3vw;
+            }
+          }
+        }
+      }
+    }
+
+  //tool tool list
+    section.tool-list-container{
+      section.tool-grid{
+        grid-template-columns: 1fr;
+        margin-left: 5vw;
+        margin-right: 5vw;
+      }
+    }
+
+  //episode page
+  section.episode-page{
+    grid-template-rows: 1fr;
+    margin-top: 10vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    margin-bottom: 15vw;
+
+    div.bigdisplay{
+      height: 30vh;
+    }
+
+    section.episode-content{
+      grid-template-columns: 1fr;
+
+      section{
+        order: 3;
+        display: flex;
+        justify-content: center;
+      }
+      p{
+        width: 75%;
+        font-size: 2.5vw;
+      }
+      h3.description{
+        order: 2;
+        margin-top: 2vw;
+        margin-bottom: 2vw;
+        width: 100%;
+      }
+      div.tags{
+        order: 1;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+    }
+  }
+
+  //podcast player
+  div.pod_player{
+    display: none;
+    position: block;
+    top: 0;
+    right: 0;
+    width: 32vw;
+    height: 4vw;
+    border: solid 4px black;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: white;
+
+    div.progress{
+      margin-right: $episode-inner;
+    }
+    progress{
+      border: solid 2px black;
+      height: 1vw;
+    }
+    progress[value]::-webkit-progress-bar {
+      -webkit-appearance: none;
+      appearance: none;
+      background-color: white;
+    }
+    progress[value]::-webkit-progress-value {
+      background-color: $blue;
+    }
+
+    div.playhead{
+      position: absolute;
+      width: .5vw;
+      height: 2vw;
+      border: solid 4px black;
+      background-color: white;
+      left: 0;
+      transform: translate(-50%);
+    }
+
+
+
+    div.plButt{
+      //background-color: $red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: $episode-inner;
+
+      svg{
+        width: 3vw;
+        height: 3vw;
+        fill: black;
+      }
+      svg:hover{
+        fill: $red;
+      }
+    }
+
+
+    div.progress{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+
+      progress{
+        margin-left: $episode-inner;
+        margin-right: $episode-inner;
+      }
+    }
+  }
+  //navbar
+  section.navbar{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: $top-margin;
+    margin-left: $outer-margin;
+    margin-right: $outer-margin;
+
+    div.nav{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 100%;
+    }
+    div.pod_player{
+      display: none;
+      width: 100%;
+      height: 5vh;
+      margin-top: 1vw;
+
+      div.plButt{
+        svg{
+          width: 4vw;
+          height: 4vw;
+        }
+      }
+
+      div.progress{
+        width: 90%;
+
+        progress{
+          width: 100%;
+        }
+      }
+    }
+    nav a{
+      font-size: 5vw;
+    }
+  }
+
+  //contact List
+  section.contact-list{
+    div{
+      margin-top: 0px;
+      margin-bottom: 0px;
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
   }
 }
