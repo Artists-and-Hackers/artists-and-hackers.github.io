@@ -7,7 +7,7 @@ layout: none
 
       "title"    : "{{ post.title | escape }}",
       "episode"  : "{{ post.episode-number }}",
-      "people"   : "{{ post.people | join ', '}}",
+      "people"   : "{{ post.people | join: ', '}}",
       "description" : "{{ post.description }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
