@@ -31,8 +31,8 @@ $inner-margin: 10vw;
 
 //episode margins
 $episode-inner: 1vw;
-$episode-body-top: 48px;
-$episode-body-bottom: 80px;
+$episode-body-top: 4vw;
+$episode-body-bottom: 6vw;
 $episode-body-left: 2vw;
 
 //about background images
@@ -454,12 +454,29 @@ section.episode-page{
     justify-content: space-between;
     grid-column-gap: auto;
 
-    p{
-      font-family: Times;
-      width: 80%;
-      font-size: $h3-size;
-      line-height: $body-line-height;
+    section.article{
+      p{
+        font-family: Times;
+        width: 80%;
+        font-size: $h4-size;
+        line-height: $body-line-height;
+
+        img{
+        width: 100%;
+        line-height: 0;
+        }
+        em{
+          font-family: stratos;
+          font-size: $h5-size;
+          background-color: $yellow;
+        }
+        em.source{
+          background-color: $red
+        }
+      }
     }
+
+
     h3{
       width: 80%;
     }
@@ -501,7 +518,6 @@ section.episode-list-container{
     border: solid 4px black;
 
     div{
-
       padding: $episode-inner;
 
       h3{
@@ -589,6 +605,7 @@ section.episode-organizing-bar{
     }
     select{
       appearance: none;
+      -webkit-appearance:none;
       background-color: white;
       border: none;
       border-bottom: 3px solid black;
@@ -714,6 +731,7 @@ section.contact-list{
           background-color: none;
         }
         select{
+          -webkit-appearance:none;
           font-size: 2.5vw;
         }
       }
@@ -766,19 +784,25 @@ section.contact-list{
     section.episode-content{
       grid-template-columns: 1fr;
 
-      section{
+      section.article{
         order: 3;
         display: flex;
+        flex-direction: column;
         justify-content: center;
+        align-items: center;
+        p{
+          width: 80%;
+          font-size: 3vw;
+          em{
+            font-size: 2vw;
+          }
+        }
       }
-      p{
-        width: 75%;
-        font-size: 3vw;
-      }
+
       h3.description{
         order: 2;
         margin-top: 2vw;
-        margin-bottom: 2vw;
+        margin-bottom: 4vw;
         width: 100%;
       }
       div.tags{
@@ -977,10 +1001,13 @@ section.contact-list{
       h3.description{
         font-size: 6vw;
       }
-      section{
+      section.article{
         p{
           width: 100%;
           font-size: 4.5vw;
+          em{
+            font-size: 3vw;
+          }
         }
       }
     }
@@ -1004,6 +1031,7 @@ section.contact-list{
         border-bottom: solid 2px black;
       }
       select{
+        -webkit-appearance:none;
         border-bottom: solid 2px black;
       }
     }

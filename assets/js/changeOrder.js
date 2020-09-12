@@ -49,6 +49,16 @@ subject.addEventListener("change", function(){
       }
     }
 
+    //Livecoding
+    if (selected == "Radical Technology") {
+      if (tag.classList.contains('radical_technology')) {
+        tag.style.display = "flex"
+      }
+      if (tag.classList.contains('radical_technology') == false) {
+        tag.style.display = "none"
+      }
+    }
+
   });
 
 })

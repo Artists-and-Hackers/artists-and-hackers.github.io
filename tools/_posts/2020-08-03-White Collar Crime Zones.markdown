@@ -1,6 +1,7 @@
 ---
 layout: tool
-related-episode: Ep. 2
+related-episode: ["Ep. 2"]
+ep_links: ["/critical-code"]
 title:  "White Collar Crime Zones"
 date:   2020-08-03 12:02:19 -0400
 categories: tools
