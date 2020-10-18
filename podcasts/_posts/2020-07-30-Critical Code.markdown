@@ -11,9 +11,9 @@ description: "Sarah Groff-Palermo, Ramsey Nasser, and Daniel Temkin discuss thei
 people: ["Sarah Groff-Palermo", "Ramsey Nasser", "Daniel Temkin"]
 tags: ["Coding Languages", "Livecoding", "Technological Criticality"]
 code_tags: ["coding_languages", "livecoding", "technological_criticality"]
-tools: ["Esoteric Codes", "White Collar Crime Zones"]
+tools: ["Coming Soon!"]
 tool_links: ["/Esoteric-Codes","/White-Collar-Crime-Zones"]
-fileLink: "https://mcdn.podbean.com/mf/web/amtw46/NEWEST_NEW_EPISODEb5jcn.mp3"
+fileLink: "https://mcdn.podbean.com/mf/web/7qwmqj/EPISODE_1_NEWEST_FINAL6cr3e.mp3"
 ---
 
 WASHINGTON — The Trump administration on Monday finalized its plan to open up part of the Arctic National Wildlife Refuge in Alaska to oil and gas development, a move that overturns six decades of protections for the largest remaining stretch of wilderness in the United States.
