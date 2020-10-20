@@ -455,6 +455,16 @@ section.episode-page{
     grid-column-gap: auto;
 
     section.article{
+      blockquote {
+        margin-left: 1vw;
+        padding-left: 2vw;
+        border-left: solid 4px black;
+        p {
+          font-family: serif;
+          font-size: $h4-size;
+
+        }
+      }
       p{
         font-family: Times;
         width: 80%;
