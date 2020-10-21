@@ -16,15 +16,15 @@ tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/7qwmqj/EPISODE_1_NEWEST_FINAL6cr3e.mp3"
 ---
 <br><br>
-In this episode we delve into the community of artists who create their own languages. And we don't mean Klingon, Elvish, or Esperanto.
+In this episode we delve into the community of artists who create their own languages. And no, we don't mean Klingon, Elvish, or Esperanto.
 
 <br>
 
-Programming languages are made up of instructions that a programmer uses to produce various kinds of output. These instructions when put together implement algorithms. The first programming languages predate the use of a digital computer. In fact the earliest might have been the automatic flute player of the 9th century described by the Astronomers and brothers Musa from Baghdad during the Islamic Golden Age in their Book of Ingenious Devices.
+Programming languages are made up of instructions that a programmer uses to produce various kinds of output. These instructions when put together implement algorithms. The first programming languages predate the use of a digital computer. In fact the earliest might have been the automatic flute player of the 9th century described by the astronomers and brothers Musa from Baghdad during the Islamic Golden Age in their Book of Ingenious Devices.
 
 <br>
 
-The earliest modern computer such as codebreaking machines during the second world war did not operate based on programming languages. Instead they were programmed by rewiring the machine. Soon after this era came machines that could be programmed  using punchcards or by flipping switches on and off. In the 1950s the US Navy's Grace Hopper decided that business data customers were uncomfortable with mathematical notation.
+The earliest modern computers such as codebreaking machines during the second world war did not operate based on programming languages. Instead they were programmed by rewiring the machine. Soon after this era came machines that could be programmed using punchcards or by flipping switches on and off. In the 1950s the US Navy's Grace Hopper decided that business data customers were uncomfortable with mathematical notation.
 
 <br>
 
@@ -36,7 +36,7 @@ She led a team to specify an English programming language that was soon called F
 
 <br>
 
-In this episode we meet artists and hackers that aren't satisfied with the limitations of programming languages. They create their own languages as art forms, or languages that themselves make art. They serve new needs, address current times, or center themselves instead of the business, corporate or military needs of computers past.
+In this episode we meet artists and hackers who aren't satisfied with the limitations of programming languages. They create their own languages as art forms, or languages that themselves make art. They serve new needs, address current times, or center themselves instead of the business, corporate, or military needs of computers past.
 
 <br>
 
@@ -44,16 +44,16 @@ In this episode we meet artists and hackers that aren't satisfied with the limit
 
 <br>
 
-<em>Sarah Groff Hennigh-Palermo</em> is a digital and video artist with a hybrid arts practice. She makes art. She's a programmer. And she's developed her own language "La Habra" to create her own visuals in code.
+<a href="http://sarahghp.com">Sarah Groff Hennigh-Palermo</a> is a digital and video artist with a hybrid arts practice. She makes art. She's a programmer. And she's developed her own language "La Habra" to create her own visuals in code.
 
 <br>
 
-<em>Ramsey Nasser</em> is a computer scientist, an educator and a game designer passionate about making fun and useful things. Ramsey is an artist and a programmer. He designed the programming language قلب.
+<a href="https://nas.sr/">Ramsey Nasser</a> is a computer scientist, an educator and a game designer passionate about making fun and useful things. His work includes games, applications, hardware, programming languages, data visualizations, websites, and more.
 
 <br>
 
-New York-based artist <em>Daniel Temkin</em> is a multi-disciplinary artist interested in the clash between human irrationality and logic often in the form of computers and our interaction with them. He explores this in net art, designing programming languages and other media such as photography.
+<a href="http://danieltemkin.com/">Daniel Temkin</a> is a New York based multi-disciplinary artist interested in the clash between human irrationality and logic often in the form of computers and our interaction with them. He explores this in net art, designing programming languages and other media such as photography.
 
 <br>
 
-<em>Anuoluwapo Karounwi</em> is a software developer from Lagos, Nigeria. He's been writing code for almost a decade and is the creator of Yorlang, a programming language that allows one to write in Yoruba.
+<a href="https://github.com/anoniscoding/">Anuoluwapo Karounwi</a> is a software developer from Lagos, Nigeria. He's been writing code for almost a decade and is the creator of Yorlang, a programming language that allows one to write in Yoruba.
