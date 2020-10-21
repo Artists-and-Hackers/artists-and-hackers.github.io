@@ -199,10 +199,12 @@ section.header{
 
     div.progress{
       margin-right: $episode-inner;
+      width: 100%;
     }
     progress{
       border: solid 2px black;
       height: 2vw;
+      width: 100%;
     }
     progress[value]::-webkit-progress-bar {
       -webkit-appearance: none;
@@ -231,6 +233,7 @@ section.header{
       justify-content: center;
       align-items: center;
       margin-left: $episode-inner;
+      margin-right: $episode-inner;
 
       svg{
         width: 3vw;
