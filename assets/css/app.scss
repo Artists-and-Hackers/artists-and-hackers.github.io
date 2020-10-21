@@ -415,7 +415,7 @@ section.episode-page{
 
 
   div.bigdisplay{
-    background-color: $yellow;
+    // background-color: $yellow;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -455,16 +455,8 @@ section.episode-page{
     grid-column-gap: auto;
 
     section.article{
-      blockquote {
-        margin-left: 1vw;
-        padding-left: 2vw;
-        border-left: solid 4px black;
-        p {
-          font-family: serif;
-          font-size: $h4-size;
+      margin-bottom: 5vw;
 
-        }
-      }
       p{
         font-family: Times;
         width: 80%;
@@ -483,6 +475,11 @@ section.episode-page{
         em.source{
           background-color: $red
         }
+      }
+      blockquote {
+        margin-left: 1vw;
+        padding-left: 2vw;
+        border-left: solid 4px black;
       }
     }
 

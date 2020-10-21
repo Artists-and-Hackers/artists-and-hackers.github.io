@@ -10,10 +10,10 @@ let green = "#35AC7D"
 tag.forEach(item =>{
   tagType = item.innerText
 
-  if (tagType == "Radical Technology") {
+  if (tagType == "Esolangs") {
     item.style.color = red
   }
-  if (tagType == "Technological Criticality") {
+  if (tagType == "Computing History") {
     item.style.color = blue
   }
   if (tagType == "Livecoding") {
