@@ -457,6 +457,12 @@ section.episode-page{
     section.article{
       margin-bottom: 5vw;
 
+      a.nameTag{
+        font-family: stratos;
+        font-size: $h4-size;
+        background-color: $yellow;
+      }
+
       p{
         font-family: Times;
         width: 80%;

@@ -6,14 +6,13 @@ let tools = document.querySelector("div.tags")
 let scrol
 let toolBox = tools.getBoundingClientRect()
 
-document.addEventListener("scrol", function(){
+document.addEventListener("scroll", function(){
   scrol = window.pageYOffset + (window.innerHeight / 2)
   if (window.innerWidth > 800) {
     if (scrol > toolBox.bottom) {
       navbar.style.left = " "
       navbar.style.flexDirection = "column"
       navbar.style.alignItems = "flex-end"
-
       nav.forEach(tag => {
         tag.style.marginTop = "1vw"
       })

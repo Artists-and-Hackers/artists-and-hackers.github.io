@@ -44,16 +44,16 @@ In this episode we meet artists and hackers who aren't satisfied with the limita
 
 <br>
 
-<a href="http://sarahghp.com">Sarah Groff Hennigh-Palermo</a> is a digital and video artist with a hybrid arts practice. She makes art. She's a programmer. And she's developed her own language "La Habra" to create her own visuals in code.
+<a href="http://sarahghp.com" class="nameTag">Sarah Groff Hennigh-Palermo</a> is a digital and video artist with a hybrid arts practice. She makes art. She's a programmer. And she's developed her own language "La Habra" to create her own visuals in code.
 
 <br>
 
-<a href="https://nas.sr/">Ramsey Nasser</a> is a computer scientist, an educator and a game designer passionate about making fun and useful things. His work includes games, applications, hardware, programming languages, data visualizations, websites, and more.
+<a href="https://nas.sr/" class="nameTag">Ramsey Nasser</a> is a computer scientist, an educator and a game designer passionate about making fun and useful things. His work includes games, applications, hardware, programming languages, data visualizations, websites, and more.
 
 <br>
 
-<a href="http://danieltemkin.com/">Daniel Temkin</a> is a New York based multi-disciplinary artist interested in the clash between human irrationality and logic often in the form of computers and our interaction with them. He explores this in net art, designing programming languages and other media such as photography.
+<a href="http://danieltemkin.com/" class="nameTag">Daniel Temkin</a> is a New York based multi-disciplinary artist interested in the clash between human irrationality and logic often in the form of computers and our interaction with them. He explores this in net art, designing programming languages and other media such as photography.
 
 <br>
 
-<a href="https://github.com/anoniscoding/">Anuoluwapo Karounwi</a> is a software developer from Lagos, Nigeria. He's been writing code for almost a decade and is the creator of Yorlang, a programming language that allows one to write in Yoruba.
+<a href="https://github.com/anoniscoding/" class="nameTag">Anuoluwapo Karounwi</a> is a software developer from Lagos, Nigeria. He's been writing code for almost a decade and is the creator of Yorlang, a programming language that allows one to write in Yoruba.
