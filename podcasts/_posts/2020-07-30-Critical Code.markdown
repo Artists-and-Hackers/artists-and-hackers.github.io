@@ -3,28 +3,57 @@ layout: episode
 episode-number: Ep. 1
 title:  "Critical Code"
 date:   2020-07-30 12:02:19 -0400
-display-date: July 30th, 2020
+display-date: October 21st, 2020
 categories: Episode
-header-image: "/assets/images/episode_images/header_images/talking.gif"
+header-image: "/assets/images/episode_images/header_images/header_image_FINAL.png"
 header-color: "#5584A4"
-description: "Sarah Groff-Palermo, Ramsey Nasser, and Daniel Temkin discuss their artistic practices involving the use of invented languages."
-people: ["Sarah Groff-Palermo", "Ramsey Nasser", "Daniel Temkin"]
-tags: ["Coding Languages", "Livecoding", "Technological Criticality"]
-code_tags: ["coding_languages", "livecoding", "technological_criticality"]
-tools: ["Coming Soon!"]
-tool_links: ["/Esoteric-Codes","/White-Collar-Crime-Zones"]
+description: "In this episode we meet artists and hackers that aren't satisfied with the limitations of programming languages. Our guests are Sarah Groff Hennigh-Palermo, Ramsey Nasser, Daniel Temkin, and Anuoluwapo Karounwi."
+people: ["Sarah Groff-Palermo", "Ramsey Nasser", "Daniel Temkin", "Anuoluwapo Karounwi"]
+tags: ["Livecoding", "Esolangs", "Computing History"]
+code_tags: ["livecoding", "esolangs", "computing_history"]
+tools: []
+tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/7qwmqj/EPISODE_1_NEWEST_FINAL6cr3e.mp3"
 ---
+<br><br>
+In this episode we delve into the community of artists who create their own languages. And no, we don't mean Klingon, Elvish, or Esperanto.
 
-WASHINGTON — The Trump administration on Monday finalized its plan to open up part of the Arctic National Wildlife Refuge in Alaska to oil and gas development, a move that overturns six decades of protections for the largest remaining stretch of wilderness in the United States.
-<br><br>
+<br>
 
-<img src="{{site.baseurl}}/assets/images/episode_images/header_images/giphy.gif" alt="hand turning dial drawing" />
-<em>Protesters marching | <a href="https://www.nytimes.com/">Source</a></em>
+Programming languages are made up of instructions that a programmer uses to produce various kinds of output. These instructions when put together implement algorithms. The first programming languages predate the use of a digital computer. In fact the earliest might have been the automatic flute player of the 9th century described by the astronomers and brothers Musa from Baghdad during the Islamic Golden Age in their Book of Ingenious Devices.
 
-<br><br>
-The decision sets the stage for what is expected to be a fierce legal battle over the fate of the refuge’s vast, remote coastal plain, which is believed to sit atop billions of barrels of oil but is also home to polar bears and migrating herds of caribou.
-<br><br>
-The Interior Department said on Monday that it had completed its required reviews and would begin preparations to auction off drilling leases. “I do believe there could be a lease sale by the end of the year,” Interior Secretary David Bernhardt said.
-<br><br>
-Environmentalists, who have battled for decades to keep energy companies out of the refuge, say the Interior Department failed to adequately consider the effects that oil and gas development could have on climate change and wildlife. They and other opponents, including some Alaska Native groups, are expected to file lawsuits to try to block lease sales.
+<br>
+
+The earliest modern computers such as codebreaking machines during the second world war did not operate based on programming languages. Instead they were programmed by rewiring the machine. Soon after this era came machines that could be programmed using punchcards or by flipping switches on and off. In the 1950s the US Navy's Grace Hopper decided that business data customers were uncomfortable with mathematical notation.
+
+<br>
+
+> Back in 1951, it was becoming increasingly clear....51, 52, 53, 54....that there are a large number of people that love symbols. They were scientists and engineers. There are also a large number of people who hated symbols. And they worked in words and they were the data processors. So we proposed that we would permit people to write in English statements and we would provide a compiler which would translate to machine code. Of course I was promptly told that I couldn't do that, because computers couldn't understand English words. <br> *—Grace Hopper*
+
+<br>
+
+She led a team to specify an English programming language that was soon called Flowmatic and influenced other early languages like COBOL. In fact it's influenced all languages since then and in the past 70 years there has been the birth of tens of thousands of programming languages so you might wonder why new ones would still need to be invented.
+
+<br>
+
+In this episode we meet artists and hackers who aren't satisfied with the limitations of programming languages. They create their own languages as art forms, or languages that themselves make art. They serve new needs, address current times, or center themselves instead of the business, corporate, or military needs of computers past.
+
+<br>
+
+<h3>Guests:</h3>
+
+<br>
+
+<a href="http://sarahghp.com" class="nameTag">Sarah Groff Hennigh-Palermo</a> is a digital and video artist with a hybrid arts practice. She makes art. She's a programmer. And she's developed her own language "La Habra" to create her own visuals in code.
+
+<br>
+
+<a href="https://nas.sr/" class="nameTag">Ramsey Nasser</a> is a computer scientist, an educator and a game designer passionate about making fun and useful things. His work includes games, applications, hardware, programming languages, data visualizations, websites, and more.
+
+<br>
+
+<a href="http://danieltemkin.com/" class="nameTag">Daniel Temkin</a> is a New York based multi-disciplinary artist interested in the clash between human irrationality and logic often in the form of computers and our interaction with them. He explores this in net art, designing programming languages and other media such as photography.
+
+<br>
+
+<a href="https://github.com/anoniscoding/" class="nameTag">Anuoluwapo Karounwi</a> is a software developer from Lagos, Nigeria. He's been writing code for almost a decade and is the creator of Yorlang, a programming language that allows one to write in Yoruba.

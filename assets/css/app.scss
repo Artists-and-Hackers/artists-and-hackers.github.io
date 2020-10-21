@@ -202,7 +202,7 @@ section.header{
     }
     progress{
       border: solid 2px black;
-      height: 1vw;
+      height: 2vw;
     }
     progress[value]::-webkit-progress-bar {
       -webkit-appearance: none;
@@ -415,7 +415,7 @@ section.episode-page{
 
 
   div.bigdisplay{
-    background-color: $yellow;
+    // background-color: $yellow;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -455,6 +455,14 @@ section.episode-page{
     grid-column-gap: auto;
 
     section.article{
+      margin-bottom: 5vw;
+
+      a.nameTag{
+        font-family: stratos;
+        font-size: $h4-size;
+        background-color: $yellow;
+      }
+
       p{
         font-family: Times;
         width: 80%;
@@ -473,6 +481,11 @@ section.episode-page{
         em.source{
           background-color: $red
         }
+      }
+      blockquote {
+        margin-left: 1vw;
+        padding-left: 2vw;
+        border-left: solid 4px black;
       }
     }
 

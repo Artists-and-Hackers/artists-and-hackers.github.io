@@ -1,6 +1,6 @@
 <section class="episode-page"  data-fileLink="{{ page.fileLink }}">
 <div class="biggerDisplay">
-  <div class="bigdisplay" style="background-image: url({{ page.header-image }}); background-color: {{ page.header-color }};">
+  <div class="bigdisplay" style="background-image: url({{ page.header-image }});">
     <div class="name">
       <h4>{{ page.display-date }}</h4>
       <h2>{{ page.episode-number }} - {{ page.title }}</h2>
@@ -26,7 +26,7 @@
         {% endfor %}
 
       </div>
-      <div class="tools-discussed">
+      <!-- <div class="tools-discussed">
         <h3>Tools:</h3>
         {% assign allTools = page.tools %}
         {% assign allToolLinks = page.tool_links %}
@@ -41,7 +41,7 @@
           </h5>
         {% endfor %}
 
-      </div>
+      </div> -->
 
     </div>
     <section class="article">
