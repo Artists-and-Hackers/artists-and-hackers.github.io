@@ -18,7 +18,7 @@ fileLink: "https://podbean.com/file"
 
 <br>
 
-Our guests are artist Grayson Earle, the collaborative team who made [White Collar Crime Zones](https://whitecollar.thenewinquiry.com/) (Brian Clifton, Francis Tseng, Sam Lavigne), and artist and organizer Ann Haeyoung.
+Our guests are artist Grayson Earle, the collaborative team who made [White Collar Crime Risk Zones](https://whitecollar.thenewinquiry.com/) (Brian Clifton, Francis Tseng, Sam Lavigne), and artist and organizer Ann Haeyoung.
 
 <br>
 
@@ -30,7 +30,7 @@ In the [Software for Artists Book: Building Better Realities](https://pioneerwor
 
 <br>
 
-Grayson has been building the Counter-Productivity Suite, a series of tools for workers in crisis. These tools are meant to aid striking workels and to connect their plight to historical labor history.
+Grayson has been building the Counter-Productivity Suite, a series of tools for workers in crisis. These tools are meant to aid striking workers and to connect their plight to historical labor history.
 
 <br>
 
@@ -38,13 +38,12 @@ Grayson points out that the root of the word *sabotage* is an old French word fo
 
 <br>
 
-<img src="{{site.baseurl}}/assets/images/sabotage.jpg"
+<img src="{{site.baseurl}}/assets/images/sabot.jpg"
 alt="A cartoon featuring a sabot" />
-<em><a href="https://en.wikipedia.org/wiki/Sabotage">Source</a></em>
 
 <br>
 
-We also speak with the team behind [White Collar Crime Zones](https://whitecollar.thenewinquiry.com/), Brian Clifton, Francis Tseng and Sam Lavigne. White Collar Crime Risk Zones uses machine learning to predict where financial crimes are mostly likely to occur across the US. It is a commentary on predictive policing and algorithmic bias.
+We also speak with the team behind [White Collar Crime Risk Zones](https://whitecollar.thenewinquiry.com/), Brian Clifton, Francis Tseng and Sam Lavigne. White Collar Crime Risk Zones uses machine learning to predict where financial crimes are mostly likely to occur across the US. It is a commentary on predictive policing and algorithmic bias.
 
 <br>
 
@@ -53,9 +52,9 @@ Sam believes art has the power to clarify, to make clear issues of inequity. Fra
 <br>
 
 Ann Haeyoung takes a different approach to considering art and activism. She creates sculpture and performance work, which she considers to be a separate process from her work as an activist and organizer and tech worker. She brings this past and current experience to bear as her work spotlights issues of identity and inequity arising from corporatized technology.
-<br>
+<br><br>
 ### Guests
-
+<br>
 <a href="https://graysonearle.com/" alt="Grayson Earle" class="nameTag">Grayson Earle</a> is a new media artist and educator. He has worked as a Visiting Professor at Oberlin College and the New York City College of Technology, and a part-time lecturer at Parsons and Eugene Lang at the New School. He is the creator of Bail Bloc and a member of [The Illuminator](http://theilluminator.org/) art collective. He is currently based in Stuttgart, Germany as a fellow at Akademie Schloss Solitude.
 
 <br>
@@ -72,4 +71,10 @@ Ann Haeyoung takes a different approach to considering art and activism. She cre
 
 <br>
 
-<a href="http://a-tbd.com" alt="Ann Haeyoung" class="nameTag">Ann Haeyoung</a> is an artist currently based in LA. She uses video and sculpture to examine questions around technology, identity, and labor.
+<a href="https://a-tbd.com" alt="Ann Haeyoung" class="nameTag">Ann Haeyoung</a> is an artist currently based in LA. She uses video and sculpture to examine questions around technology, identity, and labor.
+<br><br>
+### Credits
+<br>
+Our audio production is by Mimi Charles and Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College. 
+<br><br>
+Our music in this episode includes [Idiophone](https://www.freemusicarchive.org/music/Bio_Unit/disquiet/idiophone) by Bio Unit, [Further Discovery](https://www.freemusicarchive.org/music/Blear_Moon/expanding-lands-2020/further-discovery-2) by Blear Moon, and [Crystals](https://www.freemusicarchive.org/music/Xylo-Ziko/motif-remix/crystals) by Xilo-Zyko.
