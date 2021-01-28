@@ -7,13 +7,13 @@ display-date: January 27st, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/gears.png"
 header-color: ""
-description: "In 2020 what it means to be an artist working with technology is wide open, and we're here to explore it in detail, especially looking at issues of creativity and equity. In today's episode we're talking about art and activism, toolbuilding and technology."
+description: "In 2021 what it means to be an artist working with technology is wide open, and we're here to explore it in detail, especially looking at issues of creativity and equity. In today's episode we're talking about art and activism, toolbuilding and technology."
 people: ["Grayson Earle", "Brian Clifton", "Francis Tseng", "Sam Lavigne","Ann Haeyoung"]
 tags: ["Activism", "Tools", "Algorithmic Inequality"]
 code_tags: ["activism", "tools", "algorithmic_inequality"]
 tools: []
 tool_links: []
-fileLink: "https://podbean.com/file"
+fileLink: "https://mcdn.podbean.com/mf/web/3bwpwx/ep2-art-tools-activism-final.mp3"
 ---
 
 <br>
