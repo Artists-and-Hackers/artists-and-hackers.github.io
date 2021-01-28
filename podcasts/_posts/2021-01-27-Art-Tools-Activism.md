@@ -8,7 +8,7 @@ categories: Episode
 header-image: "/assets/images/episode_images/header_images/gears.png"
 header-color: ""
 description: "In 2021 what it means to be an artist working with technology is wide open, and we're here to explore it in detail, especially looking at issues of creativity and equity. In today's episode we're talking about art and activism, toolbuilding and technology."
-people: ["Grayson Earle", "Brian Clifton", "Francis Tseng", "Sam Lavigne","Ann Haeyoung"]
+people: ["Grayson Earle", "Brian Clifton", "Francis Tseng", "Sam Lavigne","ann haeyoung"]
 tags: ["Activism", "Tools", "Algorithmic Inequality"]
 code_tags: ["activism", "tools", "algorithmic_inequality"]
 tools: []
@@ -18,7 +18,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/3bwpwx/ep2-art-tools-activism-final.m
 
 <br>
 
-Our guests are artist Grayson Earle, the collaborative team who made [White Collar Crime Risk Zones](https://whitecollar.thenewinquiry.com/) (Brian Clifton, Francis Tseng, Sam Lavigne), and artist and organizer Ann Haeyoung.
+Our guests are artist Grayson Earle, the collaborative team who made [White Collar Crime Risk Zones](https://whitecollar.thenewinquiry.com/) (Brian Clifton, Francis Tseng, Sam Lavigne), and artist and organizer ann haeyoung.
 
 <br>
 
@@ -51,7 +51,7 @@ Sam believes art has the power to clarify, to make clear issues of inequity. Fra
 
 <br>
 
-Ann Haeyoung takes a different approach to considering art and activism. She creates sculpture and performance work, which she considers to be a separate process from her work as an activist and organizer and tech worker. She brings this past and current experience to bear as her work spotlights issues of identity and inequity arising from corporatized technology.
+ann haeyoung takes a different approach to considering art and activism. She creates sculpture and performance work, which she considers to be a separate process from her work as an activist and organizer and tech worker. She brings this past and current experience to bear as her work spotlights issues of identity and inequity arising from corporatized technology.
 <br><br>
 ### Guests
 <br>
@@ -71,7 +71,7 @@ Ann Haeyoung takes a different approach to considering art and activism. She cre
 
 <br>
 
-<a href="https://a-tbd.com" alt="Ann Haeyoung" class="nameTag">Ann Haeyoung</a> is an artist currently based in LA. She uses video and sculpture to examine questions around technology, identity, and labor.
+<a href="https://a-tbd.com" alt="ann aaeyoung" class="nameTag">ann haeyoung</a> is an artist currently based in LA. She uses video and sculpture to examine questions around technology, identity, and labor.
 <br><br>
 ### Credits
 <br>
