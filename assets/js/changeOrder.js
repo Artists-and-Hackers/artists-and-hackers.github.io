@@ -59,6 +59,34 @@ subject.addEventListener("change", function(){
       }
     }
 
+    if (selected == "Activism") {
+      if (tag.classList.contains('activism')) {
+        tag.style.display = "grid"
+      }
+      if (tag.classList.contains('activism') == false) {
+        tag.style.display = "none"
+      }
+    }
+
+    if (selected == "Tools") {
+      if (tag.classList.contains('tools')) {
+        tag.style.display = "grid"
+      }
+      if (tag.classList.contains('tools') == false) {
+        tag.style.display = "none"
+      }
+    }
+
+    if (selected == "Algorithmic Inequality") {
+      if (tag.classList.contains('algorithmic_inequality')) {
+        tag.style.display = "grid"
+      }
+      if (tag.classList.contains('algorithmic_inequality') == false) {
+        tag.style.display = "none"
+      }
+    }
+
+
   });
 
 })

@@ -22,4 +22,17 @@ tag.forEach(item =>{
   if (tagType == "Coding Languages") {
     item.style.color = green
   }
+  if (tagType == "Activism") {
+    item.style.color = red
+  }
+  if (tagType == "Tools") {
+    item.style.color = blue
+  }
+  if (tagType == "Algorithmic Inequality") {
+    item.style.color = yellow
+  }
+  if (tagType == "Coding Languages") {
+    item.style.color = green
+  }
+
 })
