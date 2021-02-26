@@ -328,6 +328,9 @@ section.hero{
     border: none;
     padding: 0px;
 
+    h2{
+      line-height: 1.2;
+    }
     h4{
       color: $red;
       margin-left: 32px;
@@ -341,9 +344,10 @@ section.hero{
 
     h3{
       margin-top: $episode-body-top;
-      margin-bottom:$episode-body-bottom;
+      margin-bottom: 4vh;
       margin-left: $episode-body-left;
-      width: 60%;
+      min-width: 60%;
+      max-width: 75%;
     }
 
     div.tags{
