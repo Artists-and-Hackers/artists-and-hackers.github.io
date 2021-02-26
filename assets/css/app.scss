@@ -367,9 +367,10 @@ section.hero{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: $top-margin * 2;
+    margin-bottom: 50vh;
+    margin-top: 46vh;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 40px;
   }
 }
 
@@ -728,8 +729,19 @@ section.contact-list{
         display: none;
       }
     }
-
-
+    section.hero{
+      a.arrow{
+        width: 30px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: $top-margin * 4;
+        margin-bottom: $top-margin * 4;
+        margin-top: auto;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
   // episode list page
     section.episode-organizing-bar{
       margin-left: 5vw;
@@ -1044,6 +1056,17 @@ section.contact-list{
       }
     }
   }
+
+  a.arrow{
+    width: 30px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: $top-margin * 4;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   section.episode-list-container{
     section.episode{
       border: solid 2px black;
