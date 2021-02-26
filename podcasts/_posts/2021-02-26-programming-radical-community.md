@@ -7,7 +7,7 @@ display-date: February 26st, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/header_image4.png"
 header-color: ""
-description: "p5.js is the name of a creative coding library and platform that aims to make coding inclusive and accessible for a wide range of people. We speak to the team that supports the language on how they make space for contributors within its nurturing, intentional community."
+description: "p5.js is the name of a creative coding library and platform that aims to make coding inclusive and accessible for a wide range of people. We speak to the team that supports p5.js on how they make space for contributors within its nurturing, intentional community."
 people: ["Lauren McCarthy", "Dorothy Santos", "Moira Turner", "Cassie Tarakajian"]
 tags: ["Activism", "Tools", "Coding Languages"]
 code_tags: ["activism","tools","coding_languages"]
