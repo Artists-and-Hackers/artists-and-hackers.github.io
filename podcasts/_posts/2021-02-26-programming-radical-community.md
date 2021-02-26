@@ -13,7 +13,7 @@ tags: ["Activism", "Tools", "Coding Languages"]
 code_tags: ["activism","tools","coding_languages"]
 tools: []
 tool_links: []
-fileLink: "https://mcdn.podbean.com/mf/web/n9sxcp/ep3-can-a-language-be-radical-community.mp3"
+fileLink: "https://mcdn.podbean.com/mf/web/rtwe9v/episode3-final2.mp3"
 ---
 
 <br>
