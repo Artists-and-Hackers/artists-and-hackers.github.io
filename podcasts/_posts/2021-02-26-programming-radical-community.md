@@ -32,7 +32,7 @@ Created In 1967 Wally Feurzig, Seymour Papert and Cynthia Solomon created LOGO a
 The first versions of LOGO were developed in Cambridge, Massachussets, and development and use soon spread to universities including MIT. And that takes us to more recent history.
 
 <br>
-And since that time there have been only a few languages oriented around learners and the visual arts.
+Since that time there have been only a small handful of languages with a focus on being accessible to new learners, and even a smaller number than that with immediate visual output. In the past twenty years, the language that stood out with this focus is Processing.
 
 <br>
 Processing is a language for electronic arts, new media art, and visual design. Created in 2001 by Ben Fry and Casey Reas, at the time grad students at MIT's Media Lab in John Maeda's lab called Aesthetics + Computation Group. It grows out of Maeda's previous work building a visual language called Design by Numbers. Processing is built on top of the Java language, and is used today by interactive artists, students, designers, researchers, and hobbyists. It's also an incredible tool to learn to program. But Processing was designed in an era when Java programs worked on the the internet. You could easily export your work and put it up on a website so others could try out your art and interactive projects. Unfortunately, Java no longer works inside web browsers. And so for a long time, Processing was useful primarily on desktop computers. And that was the case until p5.js came along.
