@@ -86,6 +86,16 @@ subject.addEventListener("change", function(){
       }
     }
 
+    if (selected == "Coding Languages") {
+      if (tag.classList.contains('coding_languages')) {
+        tag.style.display = "grid"
+      }
+      if (tag.classList.contains('coding_languages') == false) {
+        tag.style.display = "none"
+      }
+    }
+
+
 
   });
 
