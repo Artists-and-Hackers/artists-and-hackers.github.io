@@ -11,6 +11,9 @@ link.forEach((tag) => {
     else if (tag.id == "Maya") {
       face = "url('assets/images/maya.png')"
     }
+    else if (tag.id == "Max") {
+      face = "url('assets/images/max.png')"
+    }
     else if (tag.id == "Caleb") {
       face = "url('assets/images/caleb.png')"
     }

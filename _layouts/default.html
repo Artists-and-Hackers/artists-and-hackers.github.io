@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Artists and Hackers</title>
+    <title>{{ page.title | default: site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/reset.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}" />
@@ -20,7 +20,7 @@
 
     <script src="https://github.com/processing/p5.js/releases/download/1.1.9/p5.min.js"></script>
     <script src="{{ 'assets/js/parallax.js' | relative_url }}"></script>
-    
+
     <script src="{{ 'assets/js/hand.js' | relative_url }}"></script>
     <script src="{{ 'assets/js/tagColor.js' | relative_url }}"></script>
     <script src="{{ 'assets/js/submit.js' | relative_url }}"></script>
