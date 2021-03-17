@@ -103,6 +103,15 @@ subject.addEventListener("change", function(){
       }
     }
 
+    if (selected == "Digital Commons") {
+      if (tag.classList.contains('digital_commons')) {
+        tag.style.display = "flex"
+      }
+      if (tag.classList.contains('digital_commons') == false) {
+        tag.style.display = "none"
+      }
+    }
+
 
 
 
