@@ -9,8 +9,8 @@ header-image: "/assets/images/episode_images/header_images/switchboardcolor.png"
 header-color: ""
 description: "In this episode we're digging deep into the past of a radical history of personal computers, community networks and the rise of people's technology. Our guest is engineer Lee Felsenstein, who relates a story of activism and engineering."
 people: ["Lee Felsenstein"]
-tags: ["Activism", "Tools", "Computing History"]
-code_tags: ["activism","tools","computing_history"]
+tags: ["Activism", "Digital Commons", "Computing History"]
+code_tags: ["activism","digital_commons","computing_history"]
 tools: []
 tool_links: []
 fileLink: ""
