@@ -13,7 +13,7 @@ tags: ["Activism", "Digital Commons", "Computing History"]
 code_tags: ["activism","digital_commons","computing_history"]
 tools: []
 tool_links: []
-fileLink: ""
+fileLink: "https://mcdn.podbean.com/mf/web/s3jxp7/ep4-final-mixdown-3-17-21.mp3"
 ---
 
 <br>
