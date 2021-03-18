@@ -3,7 +3,7 @@ layout: episode
 episode-number: Ep. 4
 title:  "Community Memory and the Computing Counterculture" 
 date:   2021-03-16 08:00:20 -0400
-display-date: March 16th, 2021
+display-date: March 18th, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/switchboardcolor.png"
 header-color: ""
