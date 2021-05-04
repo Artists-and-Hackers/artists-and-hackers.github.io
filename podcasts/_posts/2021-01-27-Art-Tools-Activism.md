@@ -55,7 +55,7 @@ ann haeyoung takes a different approach to considering art and activism. She cre
 <br><br>
 ### Guests
 <br>
-<a href="https://graysonearle.com/" alt="Grayson Earle" class="nameTag">Grayson Earle</a> is a new media artist and educator. He has worked as a Visiting Professor at Oberlin College and the New York City College of Technology, and a part-time lecturer at Parsons and Eugene Lang at the New School. He is the creator of Bail Bloc and a member of [The Illuminator](http://theilluminator.org/) art collective. He is currently based in Stuttgart, Germany as a fellow at Akademie Schloss Solitude.
+<a href="https://graysonearle.com/" alt="Grayson Earle" class="nameTag">Grayson Earle</a> is a new media artist and educator. He has worked as a Visiting Professor at Oberlin College and the New York City College of Technology, and a part-time lecturer at Parsons and Eugene Lang at the New School. He is the co-creator of Bail Bloc (along with Sam Lavigne and Francis Tseng) and a member of [The Illuminator](http://theilluminator.org/) art collective. He is currently based in Stuttgart, Germany as a fellow at Akademie Schloss Solitude.
 
 <br>
 
