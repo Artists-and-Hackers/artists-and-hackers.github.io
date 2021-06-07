@@ -10,29 +10,36 @@ let green = "#35AC7D"
 tag.forEach(item =>{
   tagType = item.innerText
 
-  if (tagType == "Esolangs") {
-    item.style.color = red
-  }
-  if (tagType == "Computing History") {
-    item.style.color = blue
-  }
-  if (tagType == "Livecoding") {
-    item.style.color = yellow
-  }
-  if (tagType == "Coding Languages") {
-    item.style.color = green
-  }
-  if (tagType == "Activism") {
-    item.style.color = red
-  }
-  if (tagType == "Tools") {
-    item.style.color = blue
-  }
-  if (tagType == "Algorithmic Inequality") {
-    item.style.color = yellow
-  }
-  if (tagType == "Coding Languages") {
-    item.style.color = green
-  }
+  switch(tagType) {
+    case "Esolangs":
+      item.style.color = red
+      break;
+    case "Computing History":
+      item.style.color = blue
+      break;
+    case "Livecoding":
+      item.style.color = yellow
+      break;
+    case "Coding Languages":
+      item.style.color = green
+      break;
+    case "Activism":
+      item.style.color = red
+      break;
+    case "Tools": 
+      item.style.color = blue
+      break;
+    case "Algorithmic Inequality":
+      item.style.color = yellow
+      break;
+    case "Digital Commons":
+      item.style.color = green;
+      break;
+    case "Alternative Networks":
+      item.style.color = red;
+      break;
+    default:
+  } 
+
 
 })

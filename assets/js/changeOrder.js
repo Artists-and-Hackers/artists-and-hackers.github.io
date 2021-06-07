@@ -28,7 +28,15 @@ subject.addEventListener("change", function(){
       console.log(tag.classList.contains('technological_criticality'));
     }
 
-    //Livecoding
+    if (selected == "Esolangs") {
+      if (tag.classList.contains('esolangs')) {
+        tag.style.display = "flex"
+      }
+      if (tag.classList.contains('esolangs') == false) {
+        tag.style.display = "none"
+      }
+    }
+
     if (selected == "Livecoding") {
       if (tag.classList.contains('livecoding')) {
         tag.style.display = "flex"
@@ -38,7 +46,6 @@ subject.addEventListener("change", function(){
       }
     }
 
-    //Technological Criticality
     if (selected == "Technological Criticality") {
       console.log(tag.classList);
       if (tag.classList.contains('technological_criticality')) {
@@ -112,6 +119,14 @@ subject.addEventListener("change", function(){
       }
     }
 
+    if (selected == "Alternative Networks") {
+      if (tag.classList.contains('alternative_networks')) {
+        tag.style.display = "flex"
+      }
+      if (tag.classList.contains('alternative_networks') == false) {
+        tag.style.display = "none"
+      }
+    }
 
 
 
