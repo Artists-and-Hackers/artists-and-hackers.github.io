@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode-number: Ep. 5
-title:  "El Paquete Semanal: The Offline Internet in Cuba" 
+title:  "El Paquete Semanal: An Offline Internet in Cuba" 
 date:   2021-06-05 08:00:20 -0400
 display-date: June 6th, 2021
 categories: Episode
