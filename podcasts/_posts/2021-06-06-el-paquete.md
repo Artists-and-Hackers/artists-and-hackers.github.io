@@ -18,7 +18,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/q35gqh/ep5-5-14-2021_01_mixdown.mp3"
 
 <br>
 
-The united states has been in a cold war against cuba since the 1950s. And it has placed an embargo against Cuba starting with President Eisenhower, originally against weapons in 1958 and extended to almost every export starting in 1960. The embargo prevents exporting most goods into the country whether that's cars, electronics, and more. Only In 2000 did the United States begin allowing food and humanitarian supplies sent into the country.
+The United States has been in a cold war against Cuba since the 1950s. And it has placed an embargo against Cuba starting with President Eisenhower, originally against weapons in 1958 and extended to almost every export starting in 1960. The embargo prevents exporting most goods into the country whether that's cars, electronics, and more. Only In 2000 did the United States begin allowing food and humanitarian supplies sent into the country.
 
 <br>
 
