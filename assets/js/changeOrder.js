@@ -128,6 +128,26 @@ subject.addEventListener("change", function(){
       }
     }
 
+    if (selected == "Worldbuilding") {
+      if (tag.classList.contains('worldbuilding')) {
+        tag.style.display = "flex"
+      }
+      if (tag.classList.contains('worldbuilding') == false) {
+        tag.style.display = "none"
+      }
+    }
+
+    if (selected == "Speculative Futurism") {
+      if (tag.classList.contains('speculative_futurism')) {
+        tag.style.display = "flex"
+      }
+      if (tag.classList.contains('speculative_futurism') == false) {
+        tag.style.display = "none"
+      }
+    }
+
+
+
 
 
   });
