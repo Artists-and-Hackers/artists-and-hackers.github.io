@@ -13,13 +13,13 @@ tags: ["Digital Commons", "Speculative Futurism", "Worldbuilding"]
 code_tags: ["digital_commons", "speculative_futurism", "worldbuilding"]
 tools: []
 tool_links: []
-fileLink: ""
+fileLink: "https://mcdn.podbean.com/mf/web/5vum9g/Artists-and-Hackers-episode-6.mp3"
 ---
 
 
 <br>
 
-In this episode we're talking about the Iyapo Repository, a digital resource library that's built to preserve artifacts ensuring the history and legacies of people of African descent. To set that up we've got to talk about Afrofuturism.
+In this episode we're talking about the <a href="http://iyaporepository.org/" alt="Iyapo Repository" class="nameTag">Iyapo Repository</a>, a digital resource library that's built to preserve artifacts ensuring the history and legacies of people of African descent. To set that up we've got to talk about Afrofuturism.
 
 <br>
 
