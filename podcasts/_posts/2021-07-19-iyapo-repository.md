@@ -2,8 +2,8 @@
 layout: episode
 episode-number: Ep. 6
 title: "Reclamation and Worldbuilding in the Iyapo Repository"
-date:   2021-07-19 08:00:20 -0400
-display-date: July 19, 2021
+date:   2021-07-21 08:00:20 -0400
+display-date: July 21, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep6_header.png"
 header-color: ""
