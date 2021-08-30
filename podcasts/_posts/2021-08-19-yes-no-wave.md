@@ -44,7 +44,7 @@ Wok The Rock
 <br>
 
 <a href="https://www.woktherock.net/" alt="Wok The Rock" class="nameTag">Wok The Rock</a> is an artist active across the fields of contemporary art, design and music. He is a member of artist collective Ruang MES 56 in Yogyakarta, runs the music label Yes No Wave Music, initiated the Indonesia Netaudio Forum and co-curator of Nusasonic, a platform for experimental music and sound in Southeast Asia, Europe and beyond. He was the curator of Biennale Jogja XIII in 2015. He is interested in developing an experimentation of collective platform, interdisciplinary works, contemporary cultural intervention using curatorial aesthetic and speculative approach as his artistic practice. He lives and works in Yogyakarta, Indonesia.
-<br>
+<br><br>
 ### Credits
 
 <br>
@@ -52,4 +52,4 @@ Our audio production is by Max Ludlow. Episode coordination and web design by Ca
 
 <br>
 
-Our music in this episode is [Istana](https://senyawaofficial.bandcamp.com/track/istana-3) and and [Kekuasaan](https://senyawaofficial.bandcamp.com/track/kekuasaan) by Senyawa. [Jaka Ninya Na Pambaili](http://yesnowave.com/releases/yesno095/) by Ata Ratu. [Ai Kanggiki Na Umayau Biangga Duku Eri](http://yesnowave.com/releases/yesno095/) by Haling. [Milisi Miskin Kota](http://yesnowave.com/releases/yesno093/) and [Patrol Pesisir](http://yesnowave.com/releases/yesno093/) by No-Brain Dance.
+Our music in this episode is [Istana](https://senyawaofficial.bandcamp.com/track/istana-3) and [Kekuasaan](https://senyawaofficial.bandcamp.com/track/kekuasaan) by Senyawa. [Jaka Ninya Na Pambaili](http://yesnowave.com/releases/yesno095/) by Ata Ratu. [Ai Kanggiki Na Umayau Biangga Duku Eri](http://yesnowave.com/releases/yesno095/) by Haling. [Milisi Miskin Kota](http://yesnowave.com/releases/yesno093/) and [Patrol Pesisir](http://yesnowave.com/releases/yesno093/) by No-Brain Dance.
