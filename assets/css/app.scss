@@ -465,6 +465,9 @@ section.episode-page{
     section.article{
       margin-bottom: 5vw;
 
+      a{
+	background-color: $yellow;
+      }
       a.nameTag{
         font-family: stratos;
         font-size: $h4-size;
