@@ -11,6 +11,8 @@ description: "In this episode we meet artists and hackers that aren't satisfied 
 people: ["Sarah Groff-Palermo", "Ramsey Nasser", "Daniel Temkin", "Anuoluwapo Karounwi"]
 tags: ["Livecoding", "Esolangs", "Computing History"]
 code_tags: ["livecoding", "esolangs", "computing_history"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000495545989"
+spotify: "https://open.spotify.com/episode/4rg1wau09OCrs1ZZ37AA9B?si=ba01374a6a824feb"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/7qwmqj/EPISODE_1_NEWEST_FINAL6cr3e.mp3"

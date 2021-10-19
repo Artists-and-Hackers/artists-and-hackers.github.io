@@ -11,6 +11,8 @@ description: "In 2021 what it means to be an artist working with technology is w
 people: ["Grayson Earle", "Brian Clifton", "Francis Tseng", "Sam Lavigne","ann haeyoung"]
 tags: ["Activism", "Tools", "Algorithmic Inequality"]
 code_tags: ["activism", "tools", "algorithmic_inequality"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000506895284"
+spotify: "https://open.spotify.com/episode/6g41doHPJ2E6c7qrJcaO72?si=3783a235849c4875"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/3bwpwx/ep2-art-tools-activism-final.mp3"
@@ -75,6 +77,6 @@ ann haeyoung takes a different approach to considering art and activism. She cre
 <br><br>
 ### Credits
 <br>
-Our audio production is by Mimi Charles and Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College. 
+Our audio production is by Mimi Charles and Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 <br><br>
 Our music in this episode includes [Idiophone](https://www.freemusicarchive.org/music/Bio_Unit/disquiet/idiophone) by Bio Unit, [Further Discovery](https://www.freemusicarchive.org/music/Blear_Moon/expanding-lands-2020/further-discovery-2) by Blear Moon, and [Crystals](https://www.freemusicarchive.org/music/Xylo-Ziko/motif-remix/crystals) by Xilo-Zyko.

@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode-number: Ep. 4
-title:  "Community Memory and the Computing Counterculture" 
+title:  "Community Memory and the Computing Counterculture"
 date:   2021-03-16 08:00:20 -0400
 display-date: March 18th, 2021
 categories: Episode
@@ -11,6 +11,8 @@ description: "In this episode we're digging deep into the past of a radical hist
 people: ["Lee Felsenstein"]
 tags: ["Activism", "Digital Commons", "Computing History"]
 code_tags: ["activism","digital_commons","computing_history"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000513531853"
+spotify: "https://open.spotify.com/episode/7KglBXX34wuE32IBkYJPhX?si=009e1066553a4a41"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/s3jxp7/ep4-final-mixdown-3-17-21.mp3"
@@ -38,7 +40,7 @@ The Free Speech Movement was an ongoing student protest against the leadership o
 
 <br>
 
-Having been raised in a politically-engaged family Lee was part of this student movement as soon as he arrived on campus. And he was drawn to use his own family background as political activists combined with his study of engineering. 
+Having been raised in a politically-engaged family Lee was part of this student movement as soon as he arrived on campus. And he was drawn to use his own family background as political activists combined with his study of engineering.
 
 <br>
 
@@ -54,7 +56,7 @@ Lee attended political organizing meetings, hoping that students "smarter than h
 
 <br>
 
-Lee's witnessing of the underground switchboard prompted an idea: and for that he needed access to a computer network. Later he took a position as an engineer at Resource One, a radical idea for a people's computer center at Project One, a DIY commune of artists, technologists, musicians, psychologists, alternative schools, darkroom and community radio. There, Lee worked on a team to build *[Community Memory](https://en.wikipedia.org/wiki/Community_Memory)*, the first public community bulletin board, predating the web and social media by decades. 
+Lee's witnessing of the underground switchboard prompted an idea: and for that he needed access to a computer network. Later he took a position as an engineer at Resource One, a radical idea for a people's computer center at Project One, a DIY commune of artists, technologists, musicians, psychologists, alternative schools, darkroom and community radio. There, Lee worked on a team to build *[Community Memory](https://en.wikipedia.org/wiki/Community_Memory)*, the first public community bulletin board, predating the web and social media by decades.
 
 <br>
 
@@ -72,4 +74,4 @@ Lee is also responsible for playing a key part in the early homebrew computer co
 <br>
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 <br><br>
-Our music in this episode is [Funky Garden](https://freemusicarchive.org/music/Ketsa/ascendance/funky-garden) by Ketsa and [The Maschinemensch](https://freemusicarchive.org/music/Noel_Griffin/Sentient_Life/Noel_Griffin_-_Sentient_Life_-_12_The_Maschinemensch) by Noel Griffin. 
+Our music in this episode is [Funky Garden](https://freemusicarchive.org/music/Ketsa/ascendance/funky-garden) by Ketsa and [The Maschinemensch](https://freemusicarchive.org/music/Noel_Griffin/Sentient_Life/Noel_Griffin_-_Sentient_Life_-_12_The_Maschinemensch) by Noel Griffin.

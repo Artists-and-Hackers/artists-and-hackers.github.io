@@ -11,6 +11,8 @@ description: "p5.js is the name of a creative coding library and platform that a
 people: ["Lauren McCarthy", "Dorothy Santos", "Moira Turner", "Cassie Tarakajian"]
 tags: ["Activism", "Tools", "Coding Languages"]
 code_tags: ["activism","tools","coding_languages"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000510835305"
+spotify: "https://open.spotify.com/episode/3zoh73G3CbnkuFUEG9zoTC?si=c743d60836f44c98"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/rtwe9v/episode3-final2.mp3"
@@ -27,7 +29,7 @@ But over the years, there have been several programming languages designed to ai
 
 <br>
 
-Created In 1967, Wally Feurzig, Seymour Papert and Cynthia Solomon created LOGO as a programming language for children. Their radical idea was that children could program and that it could dramatically alter their educational experience. For the first time, LOGO allowed children as well as adults a simple language to program. LOGO languages feature a robot or onscreen turtle controlled with simple motion commands. The creators were inspired by swiss psychologist Jean Piaget, whose constructionist theory of learning placed students' own making and experimentation at the center of their education. And it held that learners learn best when they can construct mental models to understand the world around them and when learning feels like play. 
+Created In 1967, Wally Feurzig, Seymour Papert and Cynthia Solomon created LOGO as a programming language for children. Their radical idea was that children could program and that it could dramatically alter their educational experience. For the first time, LOGO allowed children as well as adults a simple language to program. LOGO languages feature a robot or onscreen turtle controlled with simple motion commands. The creators were inspired by swiss psychologist Jean Piaget, whose constructionist theory of learning placed students' own making and experimentation at the center of their education. And it held that learners learn best when they can construct mental models to understand the world around them and when learning feels like play.
 
 
 <br>

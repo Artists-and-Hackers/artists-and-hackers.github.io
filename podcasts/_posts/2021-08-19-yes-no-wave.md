@@ -11,6 +11,8 @@ description: "Since 2007 artist Wok The Rock has run Yes No Wave, a Javanese net
 people: ["Wok The Rock"]
 tags: ["Digital Commons", "Alternative Networks"]
 code_tags: ["digital_commons", "alternative_networks"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000532978179"
+spotify: "https://open.spotify.com/episode/5k2jFGWucIvHjmacvxdNAL?si=6198942912944dfa"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/jms7fc/Artists_and_Hackers_WOK_8_19_Max_01_mixdown.mp3"
@@ -30,7 +32,7 @@ Creative Commons is an open license for arts and culture. Formulated by a commun
 
 <br>
 
-At this point billions of songs, photographs and other works are shared online with a creative commons license. This work is shared on websites like the Internet Archive and from its beginning Wok's record label Yes No Wave has been a part of this movement. He's distributed and shared hundreds of albums on the Internet Archive, Free Music Archive and his own websites. 
+At this point billions of songs, photographs and other works are shared online with a creative commons license. This work is shared on websites like the Internet Archive and from its beginning Wok's record label Yes No Wave has been a part of this movement. He's distributed and shared hundreds of albums on the Internet Archive, Free Music Archive and his own websites.
 
 <br><br>
 

@@ -11,6 +11,8 @@ description: "The Iyapo Repository is a digital resource library built to preser
 people: ["Ayodamola Tanimowo Okunseinde "]
 tags: ["Digital Commons", "Speculative Futurism", "Worldbuilding"]
 code_tags: ["digital_commons", "speculative_futurism", "worldbuilding"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000529660700"
+spotify: "https://open.spotify.com/episode/5dSWd09AVPNLHLCaJG6Wqb?si=23235c44ff204d5d"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/5vum9g/Artists-and-Hackers-episode-6.mp3"
@@ -23,7 +25,7 @@ In this episode we're talking about the <a href="http://iyaporepository.org/" al
 
 <br>
 
-Afrofuturism is a term coined by Mark Dery in 1993 to refer to the intersection of African diaspora culture with technology and science fiction. It's a cultural movement where artists, designers and musicians were inspired by visions of the future, creating a new spectacular art that spoke to a new Afrocentric vision. 
+Afrofuturism is a term coined by Mark Dery in 1993 to refer to the intersection of African diaspora culture with technology and science fiction. It's a cultural movement where artists, designers and musicians were inspired by visions of the future, creating a new spectacular art that spoke to a new Afrocentric vision.
 
 <br>
 
@@ -37,7 +39,7 @@ In 2013 Rhizome published artist Martine Syms's The Mundane Afrofuturist Manifes
 
 <br>
 
-And one person at the forefront of this radical reimagining is Ayodamola Tanimowo Okunseinde or Ayo for short. Ayo prefers the term *Reclamation* to describe the work he's engaged in. He's co-creator and producer of the Iyapo repository with Salome Asega. It's a resource library for the future, founded to collect and preserve artifacts to ensure the history and legacy of people of African descent. The project is named for Lilith Iyapo, a character in Octavia Butler's Xenogenesis series, the  last remaining human left to straddle two complex worlds. 
+And one person at the forefront of this radical reimagining is Ayodamola Tanimowo Okunseinde or Ayo for short. Ayo prefers the term *Reclamation* to describe the work he's engaged in. He's co-creator and producer of the Iyapo repository with Salome Asega. It's a resource library for the future, founded to collect and preserve artifacts to ensure the history and legacy of people of African descent. The project is named for Lilith Iyapo, a character in Octavia Butler's Xenogenesis series, the  last remaining human left to straddle two complex worlds.
 
 <br>
 
@@ -64,5 +66,4 @@ Our audio production is by Max Ludlow. Episode coordination and web design by Ca
 
 <br>
 
-Our music in this episode is [The Come Up](https://freemusicarchive.org/music/Audiobinger/lock-down/the-come-up) by Audiobinger, [Fireflies](https://freemusicarchive.org/music/Xylo-Ziko/alternate/firefliesmp3) by Xylo-Ziko, [Note Manual](https://freemusicarchive.org/music/The_Books/ShortDocs_2010_sonic_doodads/notemanual) by The Books, and [Nighthawks](https://freemusicarchive.org/music/Timezone_LaFontaine/20190131191625267/20190131191115594) by Timezone LaFontaine 
-
+Our music in this episode is [The Come Up](https://freemusicarchive.org/music/Audiobinger/lock-down/the-come-up) by Audiobinger, [Fireflies](https://freemusicarchive.org/music/Xylo-Ziko/alternate/firefliesmp3) by Xylo-Ziko, [Note Manual](https://freemusicarchive.org/music/The_Books/ShortDocs_2010_sonic_doodads/notemanual) by The Books, and [Nighthawks](https://freemusicarchive.org/music/Timezone_LaFontaine/20190131191625267/20190131191115594) by Timezone LaFontaine
