@@ -12,6 +12,14 @@
     </div>
   </div>
 </div>
+  <div class="transcriptToggle">
+    <div class="summaryButton selected">
+      <h4>Summary</h4>
+    </div>
+    <div class="transcriptButton">
+      <h4>Transcript</h4>
+    </div>
+  </div>
   <section class="episode-content">
     <h3 class="description">{{ page.description }}</h3>
     <div class="tags">
@@ -51,7 +59,11 @@
     <section class="article">
       {{ content }}
     </section>
+    <section class="transcript">
+      
+    </section>
   </section>
 </section>
 <script src="{{ 'assets/js/audioplayer.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/transcript.js' | relative_url }}"></script>
 <script src="{{ 'assets/js/navbarscroll.js' | relative_url }}"></script>

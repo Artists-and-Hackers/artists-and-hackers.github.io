@@ -456,6 +456,27 @@ section.episode-page{
     }
   }
 
+  div.transcriptToggle{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: $episode-inner;
+    line-height: $body-line-height;
+    div.summaryButton{
+      margin-right: $outer-margin;
+    }
+    div.selected{
+      h4{
+        background-color: $yellow;
+      }
+      text-decoration: underline;
+    }
+    div:hover{
+      color: $red;
+      text-decoration: underline;
+    }
+    
+  }
+
   section.episode-content{
     display: grid;
     grid-template-columns: 3fr auto;
