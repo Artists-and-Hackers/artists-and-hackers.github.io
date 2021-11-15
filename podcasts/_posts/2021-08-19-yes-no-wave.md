@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/5k2jFGWucIvHjmacvxdNAL?si=61989429129
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/jms7fc/Artists_and_Hackers_WOK_8_19_Max_01_mixdown.mp3"
+transcript: transcripts/ep7.html
+transcriptFile: "assets/transcripts/ep7 interview - Wok The Rock.docx"
 ---
 
 <br>

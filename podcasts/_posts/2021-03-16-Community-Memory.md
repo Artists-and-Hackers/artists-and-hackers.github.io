@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/7KglBXX34wuE32IBkYJPhX?si=009e1066553
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/s3jxp7/ep4-final-mixdown-3-17-21.mp3"
+transcript: transcripts/ep4.html
+transcriptFile: "assets/transcripts/Episode 4 Community Memory and the Computing Counterculture.docx"
 ---
 
 <br>

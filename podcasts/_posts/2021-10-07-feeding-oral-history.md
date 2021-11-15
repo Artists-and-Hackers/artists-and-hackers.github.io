@@ -16,8 +16,8 @@ spotify: "https://open.spotify.com/episode/4iejQmlYLmi6Gwuj29ZsA2?si=c506528e3a7
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/5v49ck/Ep8_Feeding_Oral_History_To_Tech.mp3"
----
 
+---
 <br>
 
 Dinkins is a transmedia artist looking at artificial intelligence. She's interested in not just exploring these far reaching technologies as they intersect ideas of race, aging, gender, but also working toward equity and community sovereignty.

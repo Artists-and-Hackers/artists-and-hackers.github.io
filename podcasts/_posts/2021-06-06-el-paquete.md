@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/3VQhQxxgGImTvhnob2Yfcr?si=e37ce925398
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/q35gqh/ep5-5-14-2021_01_mixdown.mp3"
+transcript: transcripts/ep5.html
+transcriptFile: "assets/transcripts/Episode 5 El Paquete Semanal.docx"
 ---
 
 <br>

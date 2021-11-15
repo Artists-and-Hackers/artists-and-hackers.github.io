@@ -474,7 +474,7 @@ section.episode-page{
       color: $red;
       text-decoration: underline;
     }
-    
+
   }
 
   section.episode-content{
@@ -546,6 +546,23 @@ section.episode-page{
         }
       }
     }
+  }
+
+  section.transcript{
+    display: none;
+    margin-top: 3vw;
+    margin-bottom: 5vw;
+    div{
+      width: 80%;
+    }
+    font-family: Times;
+    width: 80%;
+    font-size: $h4-size;
+    line-height: $body-line-height;
+  }
+  strong{
+    font-weight: bold;
+    text-decoration: underline;
   }
 }
 

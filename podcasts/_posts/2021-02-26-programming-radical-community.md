@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/3zoh73G3CbnkuFUEG9zoTC?si=c743d60836f
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/rtwe9v/episode3-final2.mp3"
+transcript: transcripts/ep3.html
+transcriptFile: "assets/transcripts/Episode 3 Can a Programming Language Be a Radical Community.docx"
 ---
 
 <br>

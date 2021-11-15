@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/5dSWd09AVPNLHLCaJG6Wqb?si=23235c44ff2
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/5vum9g/Artists-and-Hackers-episode-6.mp3"
+transcript: transcripts/ep6.html
+transcriptFile: "assets/transcripts/ep6.docx"
 ---
 
 

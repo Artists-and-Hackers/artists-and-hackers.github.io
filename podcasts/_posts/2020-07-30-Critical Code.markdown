@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/4rg1wau09OCrs1ZZ37AA9B?si=ba01374a6a8
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/7qwmqj/EPISODE_1_NEWEST_FINAL6cr3e.mp3"
+transcript: transcripts/ep1.html
+transcriptFile: "/assets/transcripts/Episode 1 Critical Code.docx"
 ---
 <br><br>
 In this episode we delve into the community of artists who create their own languages. And no, we don't mean Klingon, Elvish, or Esperanto.

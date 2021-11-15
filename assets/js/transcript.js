@@ -9,6 +9,7 @@ let episodeTranscript = document.querySelector("section.transcript")
 
 Array.from(transcriptToggleChildren).forEach(item => {
   item.addEventListener("click", function(){
+    console.log("click!");
     Array.from(transcriptToggleChildren).forEach(child => {
       if (child.classList.contains("selected")) {
         child.classList.remove("selected")
@@ -16,11 +17,12 @@ Array.from(transcriptToggleChildren).forEach(item => {
     })
     item.classList.add("selected")
 
-    if (item.classList.contains("selected summaryButton")) {
+    if (item.classList.contains("summaryButton") == true) {
       episodeTranscript.style.display = "none"
       episodeArticle.style.display = "block"
     }
-    if (item.classList.contains("selected transcriptButton")) {
+    if (item.classList.contains("transcriptButton") == true) {
+      console.log("article gone");
       episodeTranscript.style.display = "block"
       episodeArticle.style.display = "none"
     }

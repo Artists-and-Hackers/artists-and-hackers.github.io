@@ -16,6 +16,8 @@ spotify: "https://open.spotify.com/episode/6g41doHPJ2E6c7qrJcaO72?si=3783a235849
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/3bwpwx/ep2-art-tools-activism-final.mp3"
+transcript: transcripts/ep2.html
+transcriptFile: "assets/transcripts/Episode 2 Art, Tools and Activism.docx"
 ---
 
 <br>

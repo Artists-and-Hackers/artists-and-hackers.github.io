@@ -55,13 +55,24 @@
         <h5><a href="{{ page.applePodcasts }}" target="_blank">Apple Podcasts</a></h5>
         <h5><a href="{{ page.spotify }}" target="_blank">Spotify</a></h5>
       </div>
+
+      <div class="downloadTranscript">
+        <h5><a href="{{ page.transcriptFile }}" target="_blank">Download Transcript</a></h5>
+      </div>
     </div>
     <section class="article">
       {{ content }}
     </section>
-    <section class="transcript">
-      
-    </section>
+
+  </section>
+  <section class="transcript">
+    <div>
+      <p>
+        {% if page.transcript %}
+          {% include {{page.transcript}} %}
+        {% endif %}
+      </p>
+    </div>
   </section>
 </section>
 <script src="{{ 'assets/js/audioplayer.js' | relative_url }}"></script>
