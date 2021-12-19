@@ -499,6 +499,7 @@ section.episode-page{
         font-family: Times;
         width: 80%;
         font-size: $h4-size;
+        margin-bottom: 20px;
         line-height: $body-line-height;
 
         img{
@@ -559,6 +560,9 @@ section.episode-page{
     width: 80%;
     font-size: $h4-size;
     line-height: $body-line-height;
+    p{
+      margin-bottom: 20px;
+    }
   }
   strong{
     font-weight: bold;
@@ -871,6 +875,7 @@ section.contact-list{
         align-items: center;
         p{
           width: 80%;
+          margin-bottom: 50px;
           font-size: 3vw;
           em{
             font-size: 2vw;
