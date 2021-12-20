@@ -553,6 +553,10 @@ section.episode-page{
     display: none;
     margin-top: 3vw;
     margin-bottom: 5vw;
+    display: grid;
+    grid-template-columns: 3fr auto;
+    justify-content: space-between;
+    grid-column-gap: auto;
     div{
       width: 80%;
     }
@@ -875,13 +879,14 @@ section.contact-list{
         align-items: center;
         p{
           width: 80%;
-          margin-bottom: 50px;
+          margin-bottom: 30px;
           font-size: 3vw;
           em{
             font-size: 2vw;
           }
         }
       }
+
 
       h3.description{
         order: 2;
@@ -894,6 +899,26 @@ section.contact-list{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+      }
+    }
+    section.transcript{
+      display: none;
+      grid-template-columns: 1fr;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      div{
+        width: 80%;
+      }
+      p{
+        width: 100%;
+        margin-bottom: 30px;
+        font-size: 3vw;
+        em{
+          font-size: 2vw;
+        }
       }
     }
   }
@@ -1098,6 +1123,22 @@ section.contact-list{
           em{
             font-size: 3vw;
           }
+        }
+      }
+
+    }
+    section.transcript{
+      display: none;
+      width: 100%;
+      div{
+        width: 100%;
+      }
+      p{
+        margin-bottom: 20px;
+        width: 100%;
+        font-size: 4.5vw;
+        em{
+          font-size: 3vw;
         }
       }
     }
