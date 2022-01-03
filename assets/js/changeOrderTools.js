@@ -7,11 +7,6 @@ let subject = document.querySelector("select.subject")
 let episode = document.querySelectorAll("section.episode")
 let tool = document.querySelectorAll("section.tool")
 
-
-
-
-
-
 let tags = [
   "Technological Criticality",
   "Esolangs",

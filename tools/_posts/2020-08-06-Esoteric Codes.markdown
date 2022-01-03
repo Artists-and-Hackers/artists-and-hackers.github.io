@@ -1,8 +1,8 @@
 ---
 layout: tool
-related-episode: "Ep. 2"
-epLink: "https://link_to_episode_2.com/"
-title:  "Esoteric Codes"
+related-episode: "Ep. 8"
+epLink: "/TOOL_EPISODE_EXAMPLE"
+title:  "EXAMPLE TOOL"
 creators: [Daniel Tempkin]
 creatorLinks: ["https://danieltemkin.com/"]
 date:   2020-08-03 12:02:19 -0400

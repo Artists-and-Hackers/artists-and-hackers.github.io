@@ -5,7 +5,7 @@
 
     <div>
       <h4>Featured In - <a href="{{ page.epLink }}">{{ page.related-episode }}</a></h4>
-      <h2>{{ page.title }}</h2>
+      <h2><a href="{{ page.toolLink }}" target="_blank"> {{ page.title }}</a></h2>
     </div>
   </div>
   <section class="episode-content">
@@ -22,7 +22,7 @@
       </div>
 
       <div class="contributors">
-        <h3>Creator:</h3>
+        <h3>Creators:</h3>
         {% assign allCreators = page.creators %}
         {% assign allCreatorLinks = page.creatorLinks %}
         {% assign link1 = allCreatorLinks[0] %}
