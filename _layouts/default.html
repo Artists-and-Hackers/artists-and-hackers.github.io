@@ -7,23 +7,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/reset.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/app.css' | relative_url }}" />
 
-    <meta name="description" content="Artists and Hackers is a podcast dedicated to the communities that are building and using new digital tools of creation. We talk to programmers, artists, poets, musicians, bot-makers, educators, students, and designers, in an effort to critically look at both online artmaking and the history of technology and the internet. We’re interested in where we’ve been and speculative ideas on the future.">
 
-    <meta name="description" content="Page description. No longer than 155 characters." />
-
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@artistshacking">
-    <meta name="twitter:title" content="Artists and Hackers">
-    <meta name="twitter:description" content="Artists and Hackers is a podcast dedicated to the communities that are building and using new digital tools of creation.">
-    <meta name="twitter:creator" content="@artistshacking">
-    <meta name="twitter:image" content="{{site.baseurl}}/assets/images/logo.png">
-
-    <!-- Open Graph data -->
-    <meta property="og:image" content="{{site.baseurl}}/assets/images/logo.png" />
-    <meta property="og:description" content="Artists and Hackers is a podcast dedicated to the communities that are building and using new digital tools of creation." />
-    <meta property="og:site_name" content="Artists and Hackers" />
-
+    {% seo %}
+    
   </head>
   <body>
     {% include signup.html %}

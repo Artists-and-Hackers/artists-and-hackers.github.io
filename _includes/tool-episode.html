@@ -1,0 +1,81 @@
+<section class="episode-page"  data-fileLink="{{ page.fileLink }}">
+<div class="biggerDisplay">
+  <div class="bigdisplay" style="background-image: url({{ page.header-image }});">
+    <div class="name">
+      <h4>{{ page.display-date }}</h4>
+      <h2>{{ page.episode-number }} - {{ page.title }}</h2>
+    </div>
+    <div class="playButton">
+      <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M60 0C65.5078 0 70.8203 0.703125 75.9375 2.10938C81.0547 3.51562 85.8203 5.54688 90.2344 8.20312C94.6484 10.8594 98.6914 13.9844 102.363 17.5781C106.035 21.1719 109.18 25.2148 111.797 29.707C114.414 34.1992 116.426 38.9844 117.832 44.0625C119.238 49.1406 119.961 54.4531 120 60C120 65.5078 119.297 70.8203 117.891 75.9375C116.484 81.0547 114.453 85.8203 111.797 90.2344C109.141 94.6484 106.016 98.6914 102.422 102.363C98.8281 106.035 94.7852 109.18 90.293 111.797C85.8008 114.414 81.0156 116.426 75.9375 117.832C70.8594 119.238 65.5469 119.961 60 120C54.4922 120 49.1797 119.297 44.0625 117.891C38.9453 116.484 34.1797 114.453 29.7656 111.797C25.3516 109.141 21.3086 106.016 17.6367 102.422C13.9648 98.8281 10.8203 94.7852 8.20312 90.293C5.58594 85.8008 3.57422 81.0156 2.16797 75.9375C0.761719 70.8594 0.0390625 65.5469 0 60C0 54.4922 0.703125 49.1797 2.10938 44.0625C3.51562 38.9453 5.54688 34.1797 8.20312 29.7656C10.8594 25.3516 13.9844 21.3086 17.5781 17.6367C21.1719 13.9648 25.2148 10.8203 29.707 8.20312C34.1992 5.58594 38.9844 3.57422 44.0625 2.16797C49.1406 0.761719 54.4531 0.0390625 60 0ZM90 59.8242L45 30V90L90 59.8242Z"/>
+      </svg>
+    </div>
+  </div>
+</div>
+  <div class="transcriptToggle">
+    <div class="summaryButton selected">
+      <h4>Summary</h4>
+    </div>
+    <div class="transcriptButton">
+      <h4>Transcript</h4>
+    </div>
+  </div>
+  <section class="episode-content">
+    <h3 class="description">{{ page.description }}</h3>
+    <div class="tags">
+      <div class="categories">
+        <h3>Tags:</h3>
+
+        {% assign allTags = page.tags %}
+        {% for tag in allTags %}
+        <h5 class="tag">
+          {{ tag }}
+        </h5>
+        {% endfor %}
+
+      </div>
+      <div class="tools-discussed">
+        <h3>Tools:</h3>
+        {% assign allTools = page.tools %}
+        {% assign allToolLinks = page.tool_links %}
+        {% for tool in allTools %}
+          <h5 class="tool">
+            {% assign link1 = allToolLinks[0] %}
+            {% assign link2 = allToolLinks[1] %}
+            {% assign link3 = allToolLinks[2] %}
+            {% assign link4 = allToolLinks[3] %}
+            {% assign link5 = allToolLinks[4] %}
+            <a href="{{ site.baseurl }} {% cycle "link1, link2, link3, link4, link5" %}">{{ tool }}</a>
+          </h5>
+        {% endfor %}
+
+      </div>
+
+      <div class="choosePlayer">
+        <h5><a href="{{ page.applePodcasts }}" target="_blank">Apple Podcasts</a></h5>
+        <h5><a href="{{ page.spotify }}" target="_blank">Spotify</a></h5>
+        <h5><a href="https://feed.podbean.com/artistsandhackers/feed.xml" target="_blank">RSS</a></h5>
+      </div>
+
+      <!-- <div class="downloadTranscript">
+        <h5><a href="{{ page.transcriptFile }}" target="_blank">Download Transcript</a></h5>
+      </div> -->
+    </div>
+    <section class="article">
+      {{ content }}
+    </section>
+
+  </section>
+  <section class="transcript">
+    <div>
+      <p>
+        {% if page.transcript %}
+          {% include {{page.transcript}} %}
+        {% endif %}
+      </p>
+    </div>
+  </section>
+</section>
+<script src="{{ 'assets/js/audioplayer.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/transcript.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/navbarscroll.js' | relative_url }}"></script>

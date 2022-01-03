@@ -272,19 +272,21 @@ section.navbar{
   margin-bottom: $top-margin;
   margin-left: $outer-margin;
   margin-right: $outer-margin;
-
+  pointer-events: none;
 
   nav{
     //margin-top: $top-margin;
   }
   nav a{
     font-size: $h2-size;
+    pointer-events: auto;
   }
   div.nav{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
+
   }
   div.pod_player{
     display: none;
