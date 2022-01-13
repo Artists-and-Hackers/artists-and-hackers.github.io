@@ -12,7 +12,7 @@ people: ["Ryan Kuo","Tommy Martinez"]
 tags: ["Technological Criticality", "Algorithmic Inequality"]
 code_tags: ["technological_criticality", "algorithmic_inequality"]
 applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
-spotify: "https://open.spotify.com/show/5mn7AX2itqreqZvv0HTdAc"
+spotify: "https://open.spotify.com/episode/3WbMc0EMMHDxZLjEJuKmf3"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/eduiv9/episode9-TriggeringTheTrollBots-2022-01-12.mp3"
