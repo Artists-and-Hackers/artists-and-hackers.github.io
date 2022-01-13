@@ -11,7 +11,7 @@ description: "Ryan Kuo is an artist and writer creating projects that are diagra
 people: ["Ryan Kuo","Tommy Martinez"]
 tags: ["Technological Criticality", "Algorithmic Inequality"]
 code_tags: ["technological_criticality", "algorithmic_inequality"]
-applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
+applePodcasts: "https://podcasts.apple.com/us/podcast/triggering-the-troll-bots/id1536778522?i=1000547768989"
 spotify: "https://open.spotify.com/episode/3WbMc0EMMHDxZLjEJuKmf3"
 tools: []
 tool_links: []
