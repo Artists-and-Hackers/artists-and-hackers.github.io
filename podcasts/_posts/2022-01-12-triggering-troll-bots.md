@@ -5,7 +5,7 @@ title:  "Triggering the Troll Bots"
 date:   2022-01-12 08:00:00 -0400
 display-date: January 12th, 2022
 categories: Episode
-header-image: "/assets/images/episode_images/header_images/ep9_header.png"
+header-image: "/assets/images/episode_images/header_images/ep9_header.jpg"
 header-color: "#e7511c"
 description: "Ryan Kuo is an artist and writer creating projects that are diagrammatic and evoke a person or people arguing. In this episode I speak with Ryan and his collaborator Tommy Martinez about Faith, an 'easily triggered' AI voice assistant." 
 people: ["Ryan Kuo","Tommy Martinez"]
