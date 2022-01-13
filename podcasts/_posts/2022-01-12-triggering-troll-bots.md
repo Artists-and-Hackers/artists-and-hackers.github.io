@@ -19,6 +19,8 @@ fileLink: "https://mcdn.podbean.com/mf/web/eduiv9/episode9-TriggeringTheTrollBot
 transcript: transcripts/ep9.html
 ---
 
+Note: This episode contains un-bleeped curse words. This episode is also available in a [bleeped version](https://mcdn.podbean.com/mf/web/7rkmhd/triggering_the_trollbots_bleeped.mp3).
+
 In our previous episode we spoke with transmedia artist Stephanie Dinkins about her projects Conversations with Bina48 and how ultimately her observations and frustrations with the robot led her to want to create her own conversational agents. It triggered in Dinkins the desire to begin to construct her own AI systems in collaboration with communities of color to co-create more equitable projects and technological ecosystems.
 
 We’re not done with this topic. And in today’s episode, I speak to the artist Ryan Kuo and his collaborator Tommy Martinez on the project Faith and its spin-off Baby Faith. 
