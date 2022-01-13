@@ -1,20 +1,20 @@
 ---
-layout: episode
-episode-number: Ep. 8
-title:  "Feeding Oral History to Technology"
-date:   2021-10-06 08:00:00 -0400
-display-date: October 7th, 2021
+layout: toolEpisode
+episode-number: Ep. 9
+title:  "TOOL EPISODE EXAMPLE"
+date:   2022-03-03 08:00:00 -0400
+display-date: January 3rd, 2022
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep8_header.png"
 header-color: "#35AC7D"
-description: "Stephanie Dinkins is a transmedia artist creating platforms for dialog about race, gender, aging, and our future histories. In this episode we speak about her conversations with the advanced AI Bina48 and her work building conversational agents based on oral history."
+description: "THIS IS A SAMPLE TOOL MINI-EPISODE"
 people: ["Stephanie Dinkins"]
 tags: ["Worldbuilding", "Technological Criticality", "Algorithmic Inequality"]
 code_tags: ["worldbuilding", "technological_criticality", "algorithmic_inequality"]
 applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000537823488"
 spotify: "https://open.spotify.com/episode/4iejQmlYLmi6Gwuj29ZsA2?si=c506528e3a774841"
-tools: []
-tool_links: []
+tools: [EXAMPLE TOOL]
+tool_links: ["/Esoteric-Codes"]
 fileLink: "https://mcdn.podbean.com/mf/web/5v49ck/Ep8_Feeding_Oral_History_To_Tech.mp3"
 
 ---

@@ -1,15 +1,11 @@
 <section class="episode-page">
   <div class="bigdisplay">
     {% assign allEpisodes = page.related-episode %}
-    {% assign allEpLinks = page.ep_links %}
-    {% assign link1 = allEpLinks[0] %}
-    {% assign link2 = allEpLinks[1] %}
-    {% assign link3 = allEpLinks[2] %}
-    {% assign link4 = allEpLinks[3] %}
-    {% assign link5 = allEpLinks[4] %}
+    {% assign allEpLinks = page.eplink %}
+
     <div>
-      <h4>Related Episodes - {% for link in allEpLinks %}<a href="{{ site.baseurl }} {% cycle "link1, link2, link3, link4, link5" %}">{{ page.related-episode }}</a>{% endfor %}</h4>
-      <h2>{{ page.title }}</h2>
+      <h4>Featured In - <a href="{{ page.epLink }}">{{ page.related-episode }}</a></h4>
+      <h2><a href="{{ page.toolLink }}" target="_blank"> {{ page.title }}</a></h2>
     </div>
   </div>
   <section class="episode-content">
@@ -26,10 +22,19 @@
       </div>
 
       <div class="contributors">
-        <h3>Creator:</h3>
-        <h5 class="tag1">
-          {{ page.creator }}
+        <h3>Creators:</h3>
+        {% assign allCreators = page.creators %}
+        {% assign allCreatorLinks = page.creatorLinks %}
+        {% assign link1 = allCreatorLinks[0] %}
+        {% assign link2 = allCreatorLinks[1] %}
+        {% assign link3 = allCreatorLinks[2] %}
+        {% assign link4 = allCreatorLinks[3] %}
+        {% assign link5 = allCreatorLinks[4] %}
+        {% for creator in allCreators %}
+        <h5 class="tag">
+        <a href="{% cycle "link1, link2, link3, link4, link5" %}">{{ creator }}</a>
         </h5>
+        {% endfor %}
       </div>
     </div>
 
@@ -40,3 +45,4 @@
     </section>
   </section>
 </section>
+<script src="{{ 'assets/js/navbarscroll.js' | relative_url }}"></script>
