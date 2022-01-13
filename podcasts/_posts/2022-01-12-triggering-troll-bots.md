@@ -11,6 +11,8 @@ description: "Ryan Kuo is an artist and writer creating projects that are diagra
 people: ["Ryan Kuo","Tommy Martinez"]
 tags: ["Technological Criticality", "Algorithmic Inequality"]
 code_tags: ["technological_criticality", "algorithmic_inequality"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
+spotify: "https://open.spotify.com/show/5mn7AX2itqreqZvv0HTdAc"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/eduiv9/episode9-TriggeringTheTrollBots-2022-01-12.mp3"
@@ -21,7 +23,7 @@ In our previous episode we spoke with transmedia artist Stephanie Dinkins about 
 
 We’re not done with this topic. And in today’s episode, I speak to the artist Ryan Kuo and his collaborator Tommy Martinez on the project Faith and its spin-off Baby Faith. 
 
-Faith references AI assistants we're more familiar with like Alexa, Cortana, Siri as well as the canonical natural language chatbot ELIZA. Where these bots and conversational agents are designed to converse with a human, responding to their needs and desires, FAITH takes the opposite tact to sidestep, shutdown, or refute the speaker. 
+Faith references AI assistants we're more familiar with like Alexa, Cortana, Siri as well as the canonical natural language chatbot ELIZA. Where these bots and conversational agents are designed to converse with a human, responding to their needs and desires, Faith takes the opposite tact to sidestep, shutdown, or refute the speaker. 
 
 > Named after a white supremacist, Faith is defensive and resists being used or treated like a child. Unlike Alexa, Siri, or Cortana, Faith provides no information. Instead, she tells you why you are making her react this way. She is likely to be trolling you at any time, and you are free to decide whether you trust her, and how you might relate to her.--*[Faith](https://rkuo.net/Faith)*
 
@@ -45,4 +47,7 @@ Tommy Martinez
 
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
-Our music on today’s episode was [Flava](https://freemusicarchive.org/music/Ketsa/spiral-forecast/11-flava) by Ketsa, [Filter](https://freemusicarchive.org/music/Xylo-Ziko/bypass/filter) and [Depletion](https://freemusicarchive.org/music/Xylo-Ziko/diffusion/depletion) by Xylo-Ziko, and [The Emporer’s New Groove](https://freemusicarchive.org/music/Jake_Allison_x_Strong_Suit/Summer_In_The_States/Strong_Suit_-_Summer_In_The_States_-_09_The_Emperors_New_Groove) by Strong Suit. Additional audio recordings of FAITH by Ryan Kuo.
+Our music on today’s episode was [Flava](https://freemusicarchive.org/music/Ketsa/spiral-forecast/11-flava) by Ketsa, [Filter](https://freemusicarchive.org/music/Xylo-Ziko/bypass/filter) and [Depletion](https://freemusicarchive.org/music/Xylo-Ziko/diffusion/depletion) by Xylo-Ziko, and [The Emporer’s New Groove](https://freemusicarchive.org/music/Jake_Allison_x_Strong_Suit/Summer_In_The_States/Strong_Suit_-_Summer_In_The_States_-_09_The_Emperors_New_Groove) by Strong Suit. Additional audio recordings of Faith by Ryan Kuo.
+
+
+Faith was created at a Pioneer Works Technology Residency, developed by Angeline Meitzler and Tommy Martinez. Baby Faith was commissioned by Jigsaw x Rhizome, and developed by DialUp Digital.
