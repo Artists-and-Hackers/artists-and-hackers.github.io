@@ -7,7 +7,7 @@ display-date: January 12th, 2022
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep9_header.jpg"
 header-color: "#e7511c"
-description: "Ryan Kuo is an artist and writer creating projects that are diagrammatic and evoke a person or people arguing. In this episode I speak with Ryan and his collaborator Tommy Martinez about Faith, an 'easily triggered' AI voice assistant." 
+description: "Ryan Kuo is an artist and writer creating projects that are diagrammatic and evoke a person or people arguing. In this episode we speak with Ryan and his collaborator Tommy Martinez about Faith, an 'easily triggered' AI voice assistant." 
 people: ["Ryan Kuo","Tommy Martinez"]
 tags: ["Technological Criticality", "Algorithmic Inequality"]
 code_tags: ["technological_criticality", "algorithmic_inequality"]
@@ -23,7 +23,7 @@ Note: This episode contains un-bleeped curse words. This episode is also availab
 
 In our previous episode we spoke with transmedia artist Stephanie Dinkins about her projects Conversations with Bina48 and how ultimately her observations and frustrations with the robot led her to want to create her own conversational agents. It triggered in Dinkins the desire to begin to construct her own AI systems in collaboration with communities of color to co-create more equitable projects and technological ecosystems.
 
-We’re not done with this topic. And in today’s episode, I speak to the artist Ryan Kuo and his collaborator Tommy Martinez on the project Faith and its spin-off Baby Faith. 
+We’re not done with this topic. And in today’s episode, we speak to the artist Ryan Kuo and his collaborator Tommy Martinez on the project Faith and its spin-off Baby Faith. 
 
 Faith references AI assistants we're more familiar with like Alexa, Cortana, Siri as well as the canonical natural language chatbot ELIZA. Where these bots and conversational agents are designed to converse with a human, responding to their needs and desires, Faith takes the opposite tact to sidestep, shutdown, or refute the speaker. 
 
