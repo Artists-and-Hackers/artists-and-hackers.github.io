@@ -20,7 +20,7 @@ transcript: transcripts/ep7.html
 transcriptFile: "assets/transcripts/ep7 interview - Wok The Rock.docx"
 ---
 
-Almost 15 years old, Yes No Wave is part of a history of online record labels that sprang up to serve the people of Indonesia. With 270 million people Indonesia is the fourth largest nation in the world, after the US, and the island of Java is home to half of the Indonesian population. 
+Almost 15 years old, [Yes No Wave](http://yesnowave.com/) is part of a history of online record labels that sprang up to serve the people of Indonesia. With 270 million people Indonesia is the fourth largest nation in the world, after the US, and the island of Java is home to half of the Indonesian population. 
 
 Indonesian music predates the historical record. The tribes of Indonesia have many different musical traditions and practices. And the music of indonesia is incredibly varied, from the orchestra-like traditional Gamelan music to the rise of metal and hardcore music and the ubiquitous javanese dangdut.
 
