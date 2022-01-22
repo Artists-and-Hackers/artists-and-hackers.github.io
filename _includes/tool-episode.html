@@ -23,6 +23,16 @@
   <section class="episode-content">
     <h3 class="description">{{ page.description }}</h3>
     <div class="tags">
+      {% assign allTools = page.tools %}
+      {% assign allToolLinks = page.tool_links %}
+
+      <div class="">
+        <h3 class="tool">
+          {% assign link1 = allToolLinks[0] %}
+          <a href="{{ site.baseurl }} {{ link1 }}">TRY IT OUT!</a>
+        </h3>
+      </div>
+
       <div class="categories">
         <h3>Tags:</h3>
 
@@ -34,22 +44,7 @@
         {% endfor %}
 
       </div>
-      <div class="tools-discussed">
-        <h3>Tools:</h3>
-        {% assign allTools = page.tools %}
-        {% assign allToolLinks = page.tool_links %}
-        {% for tool in allTools %}
-          <h5 class="tool">
-            {% assign link1 = allToolLinks[0] %}
-            {% assign link2 = allToolLinks[1] %}
-            {% assign link3 = allToolLinks[2] %}
-            {% assign link4 = allToolLinks[3] %}
-            {% assign link5 = allToolLinks[4] %}
-            <a href="{{ site.baseurl }} {% cycle "link1, link2, link3, link4, link5" %}">{{ tool }}</a>
-          </h5>
-        {% endfor %}
 
-      </div>
 
       <div class="choosePlayer">
         <h5><a href="{{ page.applePodcasts }}" target="_blank">Apple Podcasts</a></h5>

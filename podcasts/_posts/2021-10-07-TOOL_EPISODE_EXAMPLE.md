@@ -2,7 +2,7 @@
 layout: toolEpisode
 episode-number: Ep. 9
 title:  "TOOL EPISODE EXAMPLE"
-date:   2022-03-03 08:00:00 -0400
+date:   2022-01-03 08:00:00 -0400
 display-date: January 3rd, 2022
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep8_header.png"
