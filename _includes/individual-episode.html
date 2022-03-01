@@ -21,7 +21,10 @@
     </div>
   </div>
   <section class="episode-content">
-    <h3 class="description">{{ page.description }}</h3>
+    <section class="article">
+      <h3 class="description">{{ page.description }}</h3>
+      {{ content }}
+    </section>
     <div class="tags">
       <div class="categories">
         <h3>Tags:</h3>
@@ -61,9 +64,7 @@
         <h5><a href="{{ page.transcriptFile }}" target="_blank">Download Transcript</a></h5>
       </div> -->
     </div>
-    <section class="article">
-      {{ content }}
-    </section>
+
 
   </section>
   <section class="transcript">

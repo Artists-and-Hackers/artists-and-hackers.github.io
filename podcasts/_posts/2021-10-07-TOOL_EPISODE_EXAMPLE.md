@@ -7,13 +7,13 @@ display-date: January 3rd, 2022
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep8_header.png"
 header-color: "#35AC7D"
-description: "THIS IS A SAMPLE TOOL MINI-EPISODE"
+description: "THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE "
 people: ["Stephanie Dinkins"]
 tags: ["Worldbuilding", "Technological Criticality", "Algorithmic Inequality"]
 code_tags: ["worldbuilding", "technological_criticality", "algorithmic_inequality"]
 applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522?i=1000537823488"
 spotify: "https://open.spotify.com/episode/4iejQmlYLmi6Gwuj29ZsA2?si=c506528e3a774841"
-tools: [EXAMPLE TOOL]
+tools: [Hydra]
 tool_links: ["/Esoteric-Codes"]
 fileLink: "https://mcdn.podbean.com/mf/web/5v49ck/Ep8_Feeding_Oral_History_To_Tech.mp3"
 

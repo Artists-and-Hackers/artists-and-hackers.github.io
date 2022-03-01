@@ -21,15 +21,18 @@
     </div>
   </div>
   <section class="episode-content">
-    <h3 class="description">{{ page.description }}</h3>
+    <section class="article">
+      <h3 class="description">{{ page.description }}</h3>
+      {{ content }}
+    </section>
     <div class="tags">
       {% assign allTools = page.tools %}
       {% assign allToolLinks = page.tool_links %}
 
-      <div class="">
+      <div class="tool">
         <h3 class="tool">
           {% assign link1 = allToolLinks[0] %}
-          <a href="{{ site.baseurl }} {{ link1 }}">TRY IT OUT!</a>
+          <a href="{{ site.baseurl }} {{ link1 }}">Try out {{ page.tools }} </a>
         </h3>
       </div>
 
@@ -56,9 +59,7 @@
         <h5><a href="{{ page.transcriptFile }}" target="_blank">Download Transcript</a></h5>
       </div> -->
     </div>
-    <section class="article">
-      {{ content }}
-    </section>
+
 
   </section>
   <section class="transcript">
