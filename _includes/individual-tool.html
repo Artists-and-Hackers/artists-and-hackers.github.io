@@ -22,17 +22,17 @@
       </div>
 
       <div class="contributors">
-        <h3>Creators:</h3>
-        {% assign allCreators = page.creators %}
-        {% assign allCreatorLinks = page.creatorLinks %}
-        {% assign link1 = allCreatorLinks[0] %}
-        {% assign link2 = allCreatorLinks[1] %}
-        {% assign link3 = allCreatorLinks[2] %}
-        {% assign link4 = allCreatorLinks[3] %}
-        {% assign link5 = allCreatorLinks[4] %}
-        {% for creator in allCreators %}
+        <h3>People:</h3>
+        {% assign allPeople = page.people %}
+        {% assign allPeopleLinks = page.peopleLinks %}
+        {% assign link1 = allPeopleLinks[0] %}
+        {% assign link2 = allPeopleLinks[1] %}
+        {% assign link3 = allPeopleLinks[2] %}
+        {% assign link4 = allPeopleLinks[3] %}
+        {% assign link5 = allPeopleLinks[4] %}
+        {% for person in allPeople %}
         <h5 class="tag">
-        <a href="{% cycle "link1, link2, link3, link4, link5" %}">{{ creator }}</a>
+        <a href="{% cycle "link1, link2, link3, link4, link5" %}">{{ person }}</a>
         </h5>
         {% endfor %}
       </div>
