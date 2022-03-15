@@ -522,6 +522,10 @@ section.episode-page{
         padding-left: 2vw;
         border-left: solid 4px black;
       }
+	li {
+	  font-size: $h4-size;
+	  line-height: $body-line-height;
+	}
     }
 
 
@@ -884,9 +888,12 @@ section.contact-list{
           margin-bottom: 30px;
           font-size: 3vw;
           em{
-            font-size: 2vw;
+            font-size: 3vw;
           }
         }
+	li {
+	  font-size: 4vw;
+	}
       }
 
 
