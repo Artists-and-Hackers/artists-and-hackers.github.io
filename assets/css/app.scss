@@ -523,6 +523,25 @@ section.episode-page{
         border-left: solid 4px black;
       }
     }
+    section.transcript{
+      display: none;
+      margin-top: 3vw;
+      margin-bottom: 5vw;
+      display: grid;
+      grid-template-columns: 3fr auto;
+      justify-content: space-between;
+      grid-column-gap: auto;
+      div{
+        width: 80%;
+      }
+      font-family: Times;
+      width: 80%;
+      font-size: $h4-size;
+      line-height: $body-line-height;
+      p{
+        margin-bottom: 20px;
+      }
+    }
 
 
     h3{
@@ -561,25 +580,7 @@ section.episode-page{
     }
   }
 
-  section.transcript{
-    display: none;
-    margin-top: 3vw;
-    margin-bottom: 5vw;
-    display: grid;
-    grid-template-columns: 3fr auto;
-    justify-content: space-between;
-    grid-column-gap: auto;
-    div{
-      width: 80%;
-    }
-    font-family: Times;
-    width: 80%;
-    font-size: $h4-size;
-    line-height: $body-line-height;
-    p{
-      margin-bottom: 20px;
-    }
-  }
+
   strong{
     font-weight: bold;
     text-decoration: underline;
@@ -883,6 +884,23 @@ section.contact-list{
       }
     }
 
+    div.transcriptToggle{
+      justify-content: space-between;
+
+      div.summaryButton{
+        h4{
+          font-size: 4vw;
+          text-decoration: underline;
+        }
+      }
+      div.transcriptButton{
+        h4{
+          font-size: 4vw;
+          text-decoration: underline;
+        }
+      }
+    }
+
     section.episode-content{
       display: flex;
       flex-direction: column;
@@ -897,29 +915,34 @@ section.contact-list{
           margin-bottom: 30px;
           font-size: 3vw;
           em{
-            font-size: 2vw;
+            font-size: 2.5vw;
+          }
+          a.nameTag{
+            font-size: 2.5vw;
           }
         }
       }
 
 
       h3.description{
-        order: 2;
+
         margin-top: 2vw;
         // margin-bottom: 4vw;
         width: 100%;
       }
 
       div.tags{
-        order: 1;
+        order: -1;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
 
         div{
-
           justify-content: center;
           align-items: center;
+        }
+        div.tool{
+          width: 25vw;
         }
       }
     }
@@ -939,7 +962,7 @@ section.contact-list{
         margin-bottom: 30px;
         font-size: 3vw;
         em{
-          font-size: 2vw;
+          font-size: 2.5vw;
         }
       }
     }
@@ -1153,14 +1176,19 @@ section.contact-list{
           width: 100%;
           font-size: 4.5vw;
           em{
-            font-size: 3vw;
+            font-size: 4vw;
+          }
+          a.nameTag{
+            font-size: 4vw;
           }
         }
+
       }
 
     }
     section.transcript{
       display: none;
+      align-items: center;
       width: 100%;
       div{
         width: 100%;

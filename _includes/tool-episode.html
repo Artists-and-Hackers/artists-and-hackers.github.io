@@ -25,6 +25,15 @@
       <h3 class="description">{{ page.description }}</h3>
       {{ content }}
     </section>
+    <section class="transcript" style="display: none;">
+      <div>
+        <p>
+          {% if page.transcript %}
+            {% include {{page.transcript}} %}
+          {% endif %}
+        </p>
+      </div>
+    </section>
     <div class="tags">
       {% assign allTools = page.tools %}
       {% assign allToolLinks = page.tool_links %}
@@ -32,7 +41,7 @@
       <div class="tool">
         <h3 class="tool">
           {% assign link1 = allToolLinks[0] %}
-          <a href="{{ site.baseurl }} {{ link1 }}">Try out {{ page.tools }} </a>
+          <a href="{{ site.baseurl }} {{ link1 }}">Learn More About {{ page.tools }} </a>
         </h3>
       </div>
 
@@ -62,15 +71,7 @@
 
 
   </section>
-  <section class="transcript">
-    <div>
-      <p>
-        {% if page.transcript %}
-          {% include {{page.transcript}} %}
-        {% endif %}
-      </p>
-    </div>
-  </section>
+
 </section>
 <script src="{{ 'assets/js/audioplayer.js' | relative_url }}"></script>
 <script src="{{ 'assets/js/transcript.js' | relative_url }}"></script>

@@ -9,7 +9,6 @@ let episodeTranscript = document.querySelector("section.transcript")
 
 Array.from(transcriptToggleChildren).forEach(item => {
   item.addEventListener("click", function(){
-    console.log("click!");
     Array.from(transcriptToggleChildren).forEach(child => {
       if (child.classList.contains("selected")) {
         child.classList.remove("selected")
@@ -17,13 +16,22 @@ Array.from(transcriptToggleChildren).forEach(item => {
     })
     item.classList.add("selected")
 
-    if (item.classList.contains("summaryButton") == true) {
+    if (item.classList.contains("summaryButton") == true && window.innerWidth > 850) {
       episodeTranscript.style.display = "none"
       episodeArticle.style.display = "block"
     }
-    if (item.classList.contains("transcriptButton") == true) {
+    if (item.classList.contains("transcriptButton") == true && window.innerWidth > 850) {
       console.log("article gone");
       episodeTranscript.style.display = "block"
+      episodeArticle.style.display = "none"
+    }
+    if (item.classList.contains("summaryButton") == true && window.innerWidth < 850) {
+      episodeTranscript.style.display = "none"
+      episodeArticle.style.display = "flex"
+    }
+    if (item.classList.contains("transcriptButton") == true && window.innerWidth < 850) {
+      console.log("article gone");
+      episodeTranscript.style.display = "flex"
       episodeArticle.style.display = "none"
     }
   })

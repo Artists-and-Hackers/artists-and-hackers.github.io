@@ -25,6 +25,15 @@
       <h3 class="description">{{ page.description }}</h3>
       {{ content }}
     </section>
+    <section class="transcript" style="display: none;">
+      <div>
+        <p>
+          {% if page.transcript %}
+            {% include {{page.transcript}} %}
+          {% endif %}
+        </p>
+      </div>
+    </section>
     <div class="tags">
       <div class="categories">
         <h3>Tags:</h3>
@@ -67,15 +76,7 @@
 
 
   </section>
-  <section class="transcript">
-    <div>
-      <p>
-        {% if page.transcript %}
-          {% include {{page.transcript}} %}
-        {% endif %}
-      </p>
-    </div>
-  </section>
+
 </section>
 <script src="{{ 'assets/js/audioplayer.js' | relative_url }}"></script>
 <script src="{{ 'assets/js/transcript.js' | relative_url }}"></script>
