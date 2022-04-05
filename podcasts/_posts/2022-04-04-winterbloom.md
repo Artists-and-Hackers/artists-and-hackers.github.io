@@ -11,8 +11,8 @@ description: "In this Art Tools episode we interview Thea Flowers of Winterbloom
 people: ["Thea Flowers"]
 tags: ["Tools", "Hardware Hacking"]
 code_tags: ["tools", "hardware_hacking" ]
-applePodcasts: ""
-spotify: ""
+applePodcasts: "https://podcasts.apple.com/us/podcast/art-tools-winterblooms-open-source-synthesizer-modules/id1536778522?i=1000556273747"
+spotify: "https://open.spotify.com/episode/0FGszKgepKfIUWU7GoGAOf?si=4a3056fd54f34093"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/93283t/ep12_winterbloom.mp3"
