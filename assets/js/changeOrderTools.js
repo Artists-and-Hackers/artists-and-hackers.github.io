@@ -20,7 +20,8 @@ let tags = [
   "Digital Commons",
   "Alternative Networks",
   "Worldbuilding",
-  "Speculative Futurism"
+  "Speculative Futurism",
+  "Hardware Hacking"
 ]
 
 for (var i = 0; i < tags.length; i++) {
