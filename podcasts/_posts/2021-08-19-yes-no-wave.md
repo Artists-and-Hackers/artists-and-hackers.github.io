@@ -6,6 +6,7 @@ date:   2021-08-19 08:00:00 -0400
 display-date: August 23rd, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep7-header.png"
+image: "/assets/images/episode_images/header_images/ep7-header.png"
 header-color: "#5584A4"
 description: "Since 2007 artist Wok The Rock has run Yes No Wave, a Javanese net audio record label that makes music available for free legal download. Yes No Wave albums are released under a creative commons license allowing free non-commercial use and the freedom to remix the music."
 people: ["Wok The Rock"]

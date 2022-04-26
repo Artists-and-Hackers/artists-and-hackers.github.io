@@ -6,6 +6,7 @@ date:   2021-01-27 12:02:19 -0400
 display-date: January 27st, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/gears.png"
+image: "/assets/images/episode_images/header_images/gears.png"
 header-color: ""
 description: "In 2021 what it means to be an artist working with technology is wide open, and we're here to explore it in detail, especially looking at issues of creativity and equity. In today's episode we're talking about art and activism, toolbuilding and technology."
 people: ["Grayson Earle", "Brian Clifton", "Francis Tseng", "Sam Lavigne","ann haeyoung"]

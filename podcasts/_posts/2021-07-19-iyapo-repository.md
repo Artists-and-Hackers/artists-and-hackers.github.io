@@ -6,6 +6,7 @@ date:   2021-07-21 08:00:20 -0400
 display-date: July 21, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep6_header.png"
+image: "/assets/images/episode_images/header_images/ep6_header.png"
 header-color: ""
 description: "The Iyapo Repository is a digital resource library built to preserve the digital histories and legacy of people of African descent. Our guest is Ayodamola Tanimowo Okunseinde (Ayo), co-creator along with Salome Asega."
 people: ["Ayodamola Tanimowo Okunseinde "]

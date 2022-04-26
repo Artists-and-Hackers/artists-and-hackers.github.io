@@ -6,6 +6,7 @@ date:   2022-01-03 08:00:00 -0400
 display-date: January 3rd, 2022
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep8_header.png"
+image: "/assets/images/episode_images/header_images/ep8_header.png"
 header-color: "#35AC7D"
 description: "THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE THIS IS A SAMPLE TOOL MINI-EPISODE "
 people: ["Stephanie Dinkins"]

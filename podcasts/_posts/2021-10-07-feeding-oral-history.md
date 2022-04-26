@@ -6,6 +6,7 @@ date:   2021-10-06 08:00:00 -0400
 display-date: October 7th, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep8_header.png"
+image: "/assets/images/episode_images/header_images/ep8_header.png"
 header-color: "#35AC7D"
 description: "Stephanie Dinkins is a transmedia artist creating platforms for dialog about race, gender, aging, and our future histories. In this episode we speak about her conversations with the advanced AI Bina48 and her work building conversational agents based on oral history."
 people: ["Stephanie Dinkins"]
