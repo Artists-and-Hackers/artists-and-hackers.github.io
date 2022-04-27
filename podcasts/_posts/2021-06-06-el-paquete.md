@@ -6,6 +6,7 @@ date:   2021-06-05 08:00:20 -0400
 display-date: June 6th, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/hands+drive2.png"
+image: "/assets/images/episode_images/header_images/hands+drive2.png"
 header-color: ""
 description: "In this episode we talk about the phenomenon of the offline internet in Cuba known as El Paquete Semanal or The Weekly Package. Our guests are Cuban artist Nestor Siré and American artist Julia Weist who research, intervene and make art about El Paquete."
 people: ["Nestor Siré","Julia Weist"]

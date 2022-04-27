@@ -6,6 +6,7 @@ date:   2020-07-30 12:02:19 -0400
 display-date: October 21st, 2020
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/header_image4.png"
+image: "/assets/images/episode_images/header_images/header_image4.png"
 header-color: "#5584A4"
 description: "In this episode we meet artists and hackers that aren't satisfied with the limitations of programming languages. Our guests are Sarah Groff Hennigh-Palermo, Ramsey Nasser, Daniel Temkin, and Anuoluwapo Karounwi."
 people: ["Sarah Groff-Palermo", "Ramsey Nasser", "Daniel Temkin", "Anuoluwapo Karounwi"]

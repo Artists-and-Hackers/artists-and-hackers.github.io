@@ -6,6 +6,7 @@ date:   2021-03-16 08:00:20 -0400
 display-date: March 18th, 2021
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/switchboardcolor.png"
+image: "/assets/images/episode_images/header_images/switchboardcolor.png"
 header-color: ""
 description: "In this episode we're digging deep into the past of a radical history of personal computers, community networks and the rise of people's technology. Our guest is engineer Lee Felsenstein, who relates a story of activism and engineering."
 people: ["Lee Felsenstein"]
