@@ -20,7 +20,7 @@
 
 title: Artists and Hackers
 email: hello@artistsandhackers.org
-description: A Podcast On Creative Tools
+description: A Podcast On Art, Code and Community
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.artistsandhackers.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: artistshacking
