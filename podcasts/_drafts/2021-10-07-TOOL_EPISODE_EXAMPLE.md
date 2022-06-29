@@ -2,11 +2,7 @@
 layout: toolEpisode
 episode-number: Ep. 9
 title:  "TOOL EPISODE EXAMPLE"
-<<<<<<< HEAD:podcasts/_posts/2021-10-07-TOOL_EPISODE_EXAMPLE.md
 date:   2022-01-03 08:00:00 -0400
-=======
-date:   2021-12-03 08:00:00 -0400
->>>>>>> fullsitedev:podcasts/_drafts/2021-10-07-TOOL_EPISODE_EXAMPLE.md
 display-date: January 3rd, 2022
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep8_header.png"
