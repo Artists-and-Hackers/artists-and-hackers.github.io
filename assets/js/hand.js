@@ -4,7 +4,7 @@ let height = window.innerHeight
 let body = document.querySelector('body')
 
 let line = document.querySelector('section.header')
-
+let hover = document.querySelector('a')
 
 let title = document.querySelector('section.header div.title')
 let rect = title.getBoundingClientRect()
@@ -24,6 +24,9 @@ function preload() {
 
 function setup(){
   createCanvas(width, height);
+  body.style.cursor = 'none';
+  hover.style.cursor = 'none';
+
 
   smooth();
 

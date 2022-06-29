@@ -58,7 +58,6 @@ $background-image: none;
 
 body{
   font-family: $type;
-  cursor: none;
 }
 
 //text size setup
@@ -85,7 +84,6 @@ body{
   }
   a:hover{
     color: $red;
-    cursor: none;
   }
 
 #mouseHand{
