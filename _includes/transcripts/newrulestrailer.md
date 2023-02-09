@@ -1,0 +1,10 @@
+Hello, this is Lee, host of Artists and Hackers. We’re working on a whole season of episodes coming out this spring, but in the meantime, I wanted to let you know about a live podcast recording event we’re doing later this month. we’ve teamed up with the New Media Caucus, an international non-profit association that supports the development and understanding of new media art. They work with artists, designers, practitioners, historians, theorists, educators, students, and scholars - so a perfect partnership with our show.
+
+The event we’re hosting is called New Rules: Conversations with New Media Artists, and it’s happening in New York City on Friday February 17th from 7:30pm - 9pm. I’ll be speaking live and recording a special episode with the New Media Artists KT Duffy, Rashin Fahandej, Sue Huang, and Chelsea Thompto about their work as new media artists.
+
+The event is free and open to the public, and it will be followed by an informal dinner. You can RSVP to attend on our website, via a link from our Instagram artistsandhackers, through our newsletter if you’re one of our email newsletter subscribers, or from the New Media Caucus website. We’re asking you to please RSVP by Saturday the 11th and we’ll send you the exact location just over the river into Queens, and it’s being held in an accessible art space. We hope to see you there.
+
+New Rules is made possible with funding from the National Endowment for Arts.
+
+Thanks
+
