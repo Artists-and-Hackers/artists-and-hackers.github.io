@@ -2,9 +2,22 @@
 
 This is the website for [Artists and Hackers](http://artistsandhackers.org) podcast.
 
+This README contains info for building the site locally, using Jekyll as the Static Site Generator, and for making and editing pages.
+
 Episode pages are markdown files with frontmatter, placed in ```podcasts/_posts/```. 
 
-### Build/Run Local server
+## Set up the environment
+
+* Clone the website repo
+```
+git clone https://github.com/Artists-and-Hackers/artists-and-hackers.github.io.git
+cd artists-and-hackers.github.io
+```
+* Use your package manager or manually install ruby and ruby-devel. The development package name depends on what distro of Linux (or Mac) you're running.
+* If you've already got an old jekyll installation, I found I had to I remove the old Gemfile lock: ```mv Gemfile.lock old.Gemfile.lock```.
+* Install jekyll and the bundler program. ```sudo gem install bundler jekyll```
+
+## Build/Run Local server
 
 ```
 bundle exec jekyll serve --baseurl ''
