@@ -11,11 +11,11 @@ description: "Chelsea Thompto is a transdisciplinary artist and educator working
 people: ["Chelsea Thompto"]
 tags: ["Radical Technology", "Technological Criticality","Activism"]
 code_tags: ["radical_technology", "technological_criticality","activism"]
-applePodcasts: ""
-spotify: ""
+applePodcasts: "https://podcasts.apple.com/us/podcast/liberatory-coding-and-the-transcode-manifesto/id1536778522?i=1000624715994"
+spotify: "https://open.spotify.com/episode/6yBUNpnj7rLw1N7OK3b4ex?si=nyAhPL3GQeiV9Nuh0550LQ"
 tools: []
 tool_links: []
-fileLink: ""
+fileLink: "https://mcdn.podbean.com/mf/web/kfh5qx/AH-S3-Chelsea_Thompto_886o24o.mp3"
 transcript: transcripts/ep14.html
 ---
 
