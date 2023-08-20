@@ -47,4 +47,3 @@ Our audio production is by Max Ludlow.
 
 Our music on today’s episode is [SuperMash - Chior](https://freemusicarchive.org/music/slambience-1/drones/chior/), [Meydän - Away](https://freemusicarchive.org/music/Meydan/Ambient_1860/Away_1569/), [Anemoia - Relay](https://freemusicarchive.org/music/anemoia/home-3/relay-1/), and [Kirk Osamayo - (Ambient) Fight](https://freemusicarchive.org/music/kirk-osamayo/season-one/ambient-fight/).
 
-You can find more episodes, full transcripts, music credits, and links to find out about our guests and topics on our website [artistsandhackers.org](http://artistsandhackers.org) You can find us on instagram at artistandhackers, and on mastodon at artistsandhackers at [post.lurk.org](http://post.lurk.org) You can always write to us on our website. Please forward this or any of your favorite episodes to a friend. And be sure to leave us a review or feedback wherever you get your podcast. And thanks for listening.
