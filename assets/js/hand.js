@@ -24,8 +24,8 @@ function preload() {
 
 function setup(){
   createCanvas(width, height);
-  body.style.cursor = 'none';
-  hover.style.cursor = 'none';
+  body.style.cursor = 'pointer';
+  //hover.style.cursor = 'auto';
 
 
   smooth();
