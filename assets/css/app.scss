@@ -1192,3 +1192,9 @@ section.contact-list{
     }
   }
 }
+
+@media (prefers-reduced-motion) {
+  nav:hover, div.title:hover, section.button:hover, section.hero div h2:hover, div.ep-title:hover, a:hover, section.contact-list a:hover{
+    animation: none;
+  }
+}
