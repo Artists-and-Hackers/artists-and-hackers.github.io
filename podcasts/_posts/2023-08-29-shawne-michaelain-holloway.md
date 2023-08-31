@@ -7,12 +7,12 @@ display-date: Aug 31st, 2023
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep16_header.jpg"
 header-color: "#fecc2f"
-description: "Shawné Michaelain Holloway is a new media artist with a noisy, experimental practice. Her performances and practice make use of constraints, pain and pleasure, speaking to issues of power, both in private, intimate space as well as in the public sphere."
+description: "Shawné Michaelain Holloway is a new media artist with a 'noisy, experimental' practice. Her performances and practice make use of constraints, pain and pleasure, speaking to issues of power, both in private, intimate space as well as in the public sphere."
 people: ["Shawné Michaelain Holloway"]
 tags: ["Open Source", "Technological Criticality","Power"]
 code_tags: ["radical_technology", "technological_criticality","play"]
 applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
-spotify: "https://open.spotify.com/show/5mn7AX2itqreqZvv0HTdAc"
+spotify: "https://open.spotify.com/episode/0WmYRGXyg4MtA5J8Xi8pdA?si=nn8iUzZ1TYK8J0j-DzxfXg"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/h94nww/AH-S3-Shawne_828xw4v.mp3"
@@ -21,13 +21,13 @@ transcript: transcripts/ep16.html
 
 <br>
 
-Holloway is a new media artist, poet and performer. She's also an open source software advocate and a powerlifter. 
+Shawné is a new media artist, poet and performer. She's also an open source software advocate and a powerlifter. 
 
-One area that comes up in many of my interviews with new media artists is a discussion of their tools, those that they make or use. And as more and more artists are using a variety of tools and software, they end up impacting our understanding of them, what software and tools mean and their place in shaping culture. I found it really interesting how as a performer Shawné integrates the ecosystem of software into her performance work. 
+One area that comes up in many of our interviews with new media artists is a discussion of their tools, those that they make or use. And as more and more artists are using a variety of tools and software, they end up impacting our understanding of them, as well as what their tools mean and their place in shaping culture. In fact, Shawné integrates the ecosystem of software into her performances. 
 
-In her performance project ._SUITABLE_FOR.EXE[CUTION] the name itself contains ".exe", an executable file. This is also sometimes called a binary file. And the executable file contains specific encoded instructions for the computer to follow. This is both a specific reference to a performance score, and it also ties into the idea of an event score. I think of Fluxus event scores and happenings, which Noah Wardrip-Fruin and Nick Montfort in the New Media Reader describe as scripted theatrical events for an audience with limited audience interaction. It’s long been a staple that artists use constraint to set self-imposed rules to help them guide the creation of their works. In Shawné’s work, she’s creating the rules for the performers to follow, more fundamentally, rules around submission and domination in BDSM become part of the ecosystem of the work. And many of her projects and performances feature this idea of performers submitting to the rules of the event score.  
+In her performance project ._SUITABLE_FOR.EXE[CUTION] the name itself contains ".exe", an executable file, also called a "binary" file. And the executable file contains specific encoded instructions for the computer to follow. This is both a specific reference to a performance score, and it also ties into the idea of an event score. This brings to mind Fluxus event scores and happenings, which Noah Wardrip-Fruin and Nick Montfort in the New Media Reader describe as scripted theatrical events for an audience with limited audience interaction. It’s long been a staple that artists use constraint to set self-imposed rules to help them guide the creation of their works. In Shawné’s work, she’s creating the rules for the performers to follow. More fundamentally, these rules around submission and domination in BDSM become part of the ecosystem of the work. And many of her projects and performances feature this idea of performers submitting to the rules of the event score.  
 
-Holloway's project often feature animal training, algorithmic scores or controls, and a reference to or use of robotics - speaking to the time we live in now, anxiety and pleasure, as we embrace, and are repulsed by the latest technologies, and these complicate the connection between power and desire.
+Shawné's projects often feature animal training, algorithmic scores or controls, and a reference to or use of robotics - speaking to the time we live in now, anxiety and pleasure, as we embrace, and are repulsed by the latest technologies, and the complicated connection between power and desire.
 
 ![Shawné Michaelain Hollawy]({{site.baseurl}}/assets/images/shawne.jpg)  
 *image description: Shawné in long curly hair stands in a light-filled space with plants, wearing a black t-shirt illustrated with barbs, spikes and scorpions.*
