@@ -9,9 +9,9 @@ header-image: "/assets/images/episode_images/header_images/ep16_header.jpg"
 header-color: "#fecc2f"
 description: "Shawné Michaelain Holloway is a new media artist with a 'noisy, experimental' practice. Her performances and practice make use of constraints, pain and pleasure, speaking to issues of power, both in private, intimate space as well as in the public sphere."
 people: ["Shawné Michaelain Holloway"]
-tags: ["Open Source", "Technological Criticality","Power"]
-code_tags: ["radical_technology", "technological_criticality","play"]
-applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
+tags: ["Performance", "Open Source", "Power"]
+code_tags: ["performance", "open_source","power"]
+applePodcasts: "https://podcasts.apple.com/us/podcast/a-meditation-on-power-on-all-levels/id1536778522?i=1000626281577"
 spotify: "https://open.spotify.com/episode/0WmYRGXyg4MtA5J8Xi8pdA?si=nn8iUzZ1TYK8J0j-DzxfXg"
 tools: []
 tool_links: []
