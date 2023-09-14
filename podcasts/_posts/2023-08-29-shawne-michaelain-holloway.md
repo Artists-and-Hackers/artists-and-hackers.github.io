@@ -1,7 +1,7 @@
 ---
 layout: episode
 episode-number: Ep. 16
-title: "A meditation on Power on all levels"
+title: "A Meditation on Power on All Levels"
 date:   2023-08-29 08:00:00 -0400
 display-date: Aug 31st, 2023
 categories: Episode
