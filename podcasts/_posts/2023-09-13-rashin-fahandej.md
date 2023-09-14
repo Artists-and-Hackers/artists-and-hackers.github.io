@@ -15,7 +15,7 @@ applePodcasts: "https://podcasts.apple.com/us/podcast/immersive-media-and-co-cre
 spotify: "https://open.spotify.com/episode/7CTBB50jdjypUdnghtd7lj"
 tools: []
 tool_links: []
-fileLink: ""
+fileLink: "https://mcdn.podbean.com/mf/web/7hgcq6/AH_S3_EP5_Rashin_mixdown_VFinal.mp3"
 transcript: transcripts/ep18.html
 ---
 
