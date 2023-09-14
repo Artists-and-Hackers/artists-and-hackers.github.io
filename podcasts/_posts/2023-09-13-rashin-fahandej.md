@@ -11,8 +11,8 @@ description: "A Father's Lullaby is the name of an expansive ongoing research an
 people: ["Rashin Fahandej"]
 tags: ["Immersive Media", "Social Justice","Activism"]
 code_tags: ["immersive_media", "social_justice","activism"]
-applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
-spotify: "https://open.spotify.com/show/5mn7AX2itqreqZvv0HTdAc"
+applePodcasts: "https://podcasts.apple.com/us/podcast/immersive-media-and-co-creation-with-formerly/id1536778522?i=1000627823557"
+spotify: "https://open.spotify.com/episode/7CTBB50jdjypUdnghtd7lj"
 tools: []
 tool_links: []
 fileLink: ""
