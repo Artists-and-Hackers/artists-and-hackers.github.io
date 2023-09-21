@@ -11,7 +11,7 @@ description: "This episode features our special live podcast recording event we 
 people: ["Rashin Fahandej","KT Duffy","Sue Huang","Chelsea Thompto"]
 tags: ["Live", "Social Justice","Education"]
 code_tags: ["live", "social_justice","education"]
-applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
+applePodcasts: "https://podcasts.apple.com/us/podcast/new-rules-conversations-with-new-media-artists-live/id1536778522?i=1000628657282"
 spotify: "https://open.spotify.com/episode/5Xm15PpDeJn3nw8Atshmnd"
 tools: []
 tool_links: []
