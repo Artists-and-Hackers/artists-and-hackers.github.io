@@ -11,8 +11,8 @@ description: "This episode kicks off our season working with the Engelberg Cente
 people: ["Michael Weinberg","Ramsey Nasser","Joey Lee","Ashley Jane Lewis"]
 tags: ["Programming", "AI", "Open Source","Copyright"]
 code_tags: ["programming", "ai", "open_source","copyright"]
-applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
-spotify: "https://open.spotify.com/show/5mn7AX2itqreqZvv0HTdAc"
+applePodcasts: "https://podcasts.apple.com/us/podcast/lawyers-and-hackers/id1536778522?i=1000645137431"
+spotify: "https://open.spotify.com/episode/3L0G7g9MhjWdO2BhfjZMZ3?si=-QrnZVAmTAakyFsX34lCiw"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/33nrep/AH_S3_EP1_LawyersAndHackers_118af7js.mp3"
