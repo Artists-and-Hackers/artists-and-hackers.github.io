@@ -43,3 +43,4 @@ Our audio production is by Max Ludlow. Episode coordination and web design by Ca
 
 Our music in this episode is [Close](https://freemusicarchive.org/music/Bio_Unit/ampex/close) and [Poly](https://freemusicarchive.org/music/Bio_Unit/ampex/poly) by Bio Unit and [Bruwynn](https://www.freemusicarchive.org/music/The_Mind_Orchestra/The_Mind_Orchestra_-_Singles_1084/bruwynn) by The Mind Orchestra.
 
+This episode is licensed under CC BY-NC-SA 4.0 

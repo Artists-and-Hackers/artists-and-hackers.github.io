@@ -63,3 +63,4 @@ Our audio production is by Max Ludlow.
 
 Our music on today’s episode is [High water by Artem Bemba](https://freemusicarchive.org/music/Artem_Bemba/Basscoast/Artem_Bemba_-_Basscoast_-_01_-_High_Water), [20 by Lucky Dragons](https://freemusicarchive.org/music/Lucky_Dragons/Relax_in_a_Hurry/lucky_dragons_-_relax_in_a_hurry_-_20_20) and [Ambient Fight by Kirk Osamayo](https://freemusicarchive.org/music/kirk-osamayo/season-one/ambient-fight/), from the Free Music archive.
 
+This episode is licensed under CC BY-NC-SA 4.0 

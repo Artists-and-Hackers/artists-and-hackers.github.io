@@ -41,3 +41,5 @@ In this episode we meet artists and hackers who aren't satisfied with the limita
 <a href="http://danieltemkin.com/" class="nameTag">Daniel Temkin</a> is a New York based multi-disciplinary artist interested in the clash between human irrationality and logic often in the form of computers and our interaction with them. He explores this in net art, designing programming languages and other media such as photography.
 
 <a href="https://github.com/anoniscoding/" class="nameTag">Anuoluwapo Karounwi</a> is a software developer from Lagos, Nigeria. He's been writing code for almost a decade and is the creator of Yorlang, a programming language that allows one to write in Yoruba.
+
+This episode is licensed under CC BY-NC-ND 4.0.

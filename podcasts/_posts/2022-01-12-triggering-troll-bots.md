@@ -53,3 +53,5 @@ Our music on today’s episode was [Flava](https://freemusicarchive.org/music/Ke
 
 
 Faith was created at a Pioneer Works Technology Residency, developed by Angeline Meitzler and Tommy Martinez. Baby Faith was commissioned by Jigsaw x Rhizome, and developed by DialUp Digital.
+
+This episode is licensed under CC BY-NC-ND 4.0.

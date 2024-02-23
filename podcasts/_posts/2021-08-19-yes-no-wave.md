@@ -44,3 +44,5 @@ Wok The Rock
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
 Our music in this episode is [Istana](https://senyawaofficial.bandcamp.com/track/istana-3) and [Kekuasaan](https://senyawaofficial.bandcamp.com/track/kekuasaan) by Senyawa. [Jaka Ninya Na Pambaili](http://yesnowave.com/releases/yesno095/) by Ata Ratu. [Ai Kanggiki Na Umayau Biangga Duku Eri](http://yesnowave.com/releases/yesno095/) by Haling. [Milisi Miskin Kota](http://yesnowave.com/releases/yesno093/) and [Patrol Pesisir](http://yesnowave.com/releases/yesno093/) by No-Brain Dance.
+
+This episode is licensed under CC BY-NC 4.0 

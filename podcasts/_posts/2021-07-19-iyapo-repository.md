@@ -48,3 +48,5 @@ Ayodamola Tanimowo Okunseinde (ayo), photo by Yvette King
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
 Our music in this episode is [The Come Up](https://freemusicarchive.org/music/Audiobinger/lock-down/the-come-up) by Audiobinger, [Fireflies](https://freemusicarchive.org/music/Xylo-Ziko/alternate/firefliesmp3) by Xylo-Ziko, [Note Manual](https://freemusicarchive.org/music/The_Books/ShortDocs_2010_sonic_doodads/notemanual) by The Books, and [Nighthawks](https://freemusicarchive.org/music/Timezone_LaFontaine/20190131191625267/20190131191115594) by Timezone LaFontaine.
+ 
+This work is licensed under CC BY-NC-SA 4.0 

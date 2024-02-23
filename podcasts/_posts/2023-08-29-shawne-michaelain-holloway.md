@@ -52,3 +52,4 @@ Our music on today’s episode is:
 [Lobo Loco - Fingerorgel Kalimba](https://freemusicarchive.org/music/Lobo_Loco/worldmusic-experiments/fingerorgel-kalimba-id-1994/)  
 [Kirk Osamayo - (Ambient) Fight](https://freemusicarchive.org/music/kirk-osamayo/season-one/ambient-fight/)  
 
+This episode is licensed under CC BY-NC 4.0 

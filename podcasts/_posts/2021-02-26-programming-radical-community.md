@@ -57,3 +57,5 @@ In this episode we speak to members of the community that contribute to p5.js on
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
 Our music in this episode is: [Sorry](https://freemusicarchive.org/music/Comfort_Fit/Forget_And_Remember/03_Sorry) by Comfort Fit, [Purplebutter](https://freemusicarchive.org/music/Breakmaster_Cylinder/I_Wanna_Hear_The_Music/Breakmaster_Cylinder_-_I_Wanna_Hear_The_Music_EP_-_03_Purplebutter) by Breakmaster Cylinder, [Transition](https://www.freemusicarchive.org/music/Acreil/Blue_Music/03_acreil_-_transition) by Acreil, [Acme Coke](https://www.freemusicarchive.org/music/Roger_Plexico/No_Mans_Land/Roger_Plexico_-_No_Mans_Land_-_06_Acme_Coke) by Roger Plexico, [WELP](https://www.freemusicarchive.org/music/Glass_Boy/FADE/WELP) by Glass Boy and [note manual](https://www.freemusicarchive.org/music/The_Books/ShortDocs_2010_sonic_doodads/notemanual) by The Books.
+
+This episode is licensed under CC BY-NC-ND 4.0.

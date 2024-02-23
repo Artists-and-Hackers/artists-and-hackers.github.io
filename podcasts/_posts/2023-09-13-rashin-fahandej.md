@@ -51,3 +51,4 @@ Our audio production is by Max Ludlow.
 
 Our music on today’s episode is Koi-Discovery with the tracks [Sick Of](https://freemusicarchive.org/music/koi-discovery/omega/sick-of/) and [Silk Rope](https://freemusicarchive.org/music/koi-discovery/omega/silk-rope/), [Meydän - Away](https://freemusicarchive.org/music/Meydan/Ambient_1860/Away_1569), [Anemoia - Relay](https://freemusicarchive.org/music/anemoia/home-3/relay-1/) and [Kirk Osamayo  (Ambient) Fight](https://freemusicarchive.org/music/kirk-osamayo/season-one/ambient-fight/), from Free Music Archive.
 
+This episode is licensed under CC BY-NC-SA 4.0 

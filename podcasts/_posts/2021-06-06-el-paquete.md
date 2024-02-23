@@ -43,3 +43,5 @@ The collaborative artist team of Julia Weist and Nestor Siré have been research
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
 Our music in this episode is [Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms) by Chad Crouch, [Drake Meditation Spirit](https://www.freemusicarchive.org/music/Lobo_Loco/for-jambo/drake-meditation-spirit-id-1557) by Lobo Loco, [Note Manual](https://freemusicarchive.org/music/The_Books/ShortDocs_2010_sonic_doodads/notemanual) by The Books, and [Difference](https://freemusicarchive.org/music/Ketsa/abundance/difference) by Ketsa.
+
+This episode is licensed under CC BY-NC-ND 4.0.

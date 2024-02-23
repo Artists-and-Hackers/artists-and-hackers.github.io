@@ -47,3 +47,4 @@ Our audio production is by Max Ludlow.
 
 Our music on today’s episode is [SuperMash - Chior](https://freemusicarchive.org/music/slambience-1/drones/chior/), [Meydän - Away](https://freemusicarchive.org/music/Meydan/Ambient_1860/Away_1569/), [Anemoia - Relay](https://freemusicarchive.org/music/anemoia/home-3/relay-1/), and [Kirk Osamayo - (Ambient) Fight](https://freemusicarchive.org/music/kirk-osamayo/season-one/ambient-fight/).
 
+This work is licensed under CC BY 4.0 

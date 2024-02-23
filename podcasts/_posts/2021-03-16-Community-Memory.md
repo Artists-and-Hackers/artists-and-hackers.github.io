@@ -55,3 +55,5 @@ Lee is also responsible for playing a key part in the early homebrew computer co
 Our audio production is by Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
 Our music in this episode is [Funky Garden](https://freemusicarchive.org/music/Ketsa/ascendance/funky-garden) by Ketsa and [The Maschinemensch](https://freemusicarchive.org/music/Noel_Griffin/Sentient_Life/Noel_Griffin_-_Sentient_Life_-_12_The_Maschinemensch) by Noel Griffin.
+
+This episode is licensed under CC BY-NC-ND 4.0.

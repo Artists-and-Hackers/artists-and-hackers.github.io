@@ -60,3 +60,5 @@ ann haeyoung takes a different approach to considering art and activism. She cre
 Our audio production is by Mimi Charles and Max Ludlow. Episode coordination and web design by Caleb Stone. This episode was supported by Purchase College.
 
 Our music in this episode includes [Idiophone](https://www.freemusicarchive.org/music/Bio_Unit/disquiet/idiophone) by Bio Unit, [Further Discovery](https://www.freemusicarchive.org/music/Blear_Moon/expanding-lands-2020/further-discovery-2) by Blear Moon, and [Crystals](https://www.freemusicarchive.org/music/Xylo-Ziko/motif-remix/crystals) by Xilo-Zyko.
+
+ This episode is licensed under CC BY-NC 4.0.

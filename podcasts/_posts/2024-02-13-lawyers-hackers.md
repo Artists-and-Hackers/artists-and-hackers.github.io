@@ -56,3 +56,4 @@ Our music on today’s episode comes from the Free Music Archive.
 
 We also featured audio excerpts from Citizen DJ by Brian Foo, a project he conducted as [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/).
 
+This episode is licensed under CC BY-NC-SA 4.0 

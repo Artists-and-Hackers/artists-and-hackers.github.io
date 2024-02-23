@@ -45,3 +45,4 @@ Our audio production is by Max Ludlow. Episode coordination and web design by Ca
 
 Our music on today’s episode is [Lost](https://freemusicarchive.org/music/Metre/alternator/lost-2) by Metre, and [RELB Eurorack Sesh 6 20 14 tapebounce](https://freemusicarchive.org/music/Russell_E_L_Butler/Constructions/Russell_E_L_Butler_-_Constructions_-_06_RELB_Eurorack_Sesh_6_20_14tapebounce) by Russell Ellington Langston Butler. Original honking sample by Winterbloom.
 
+This episode is licensed under CC BY-NC-SA 4.0 
