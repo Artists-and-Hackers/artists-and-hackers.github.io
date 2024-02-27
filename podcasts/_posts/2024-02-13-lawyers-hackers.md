@@ -3,7 +3,7 @@ layout: episode
 episode-number: Ep. 20
 title: "Lawyers and Hackers"
 date:   2024-02-12 08:00:00 -0400
-display-date: Oct 13th, 2024
+display-date: Feb 13th, 2024
 categories: Episode
 header-image: "/assets/images/episode_images/header_images/ep20_header.png"
 header-color: "#fecc2f"
