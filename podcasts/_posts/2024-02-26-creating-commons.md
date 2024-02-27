@@ -11,8 +11,8 @@ description: "Kat Walsh from Creative Commons joins us to talk about the history
 people: ["Kat Walsh","Marc Weidenbaum"]
 tags: ["Creative Commons", "Open Source","Copyright"]
 code_tags: ["creative_commons", "open_source","copyright"]
-applePodcasts: "https://podcasts.apple.com/us/podcast/artists-and-hackers/id1536778522"
-spotify: "https://open.spotify.com/show/5mn7AX2itqreqZvv0HTdAc"
+applePodcasts: "https://podcasts.apple.com/us/podcast/creating-in-a-commons-conversations-with/id1536778522?i=1000647192353"
+spotify: "https://open.spotify.com/episode/0BwwVZOUZpfFNAhMNiqvZA"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/jkrqza/A_H_S3_EP2_CreatingInACommons_118_mixdown82jg7.mp3"
