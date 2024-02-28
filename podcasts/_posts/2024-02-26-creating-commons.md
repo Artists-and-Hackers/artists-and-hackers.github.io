@@ -60,7 +60,7 @@ Our music on today’s episode is all taken from Creative Commons licensed music
 
 [Ways](https://soundcloud.com/analoc/ways-disquiet0482?in=disquiet/sets/disquiet-junto-project-0482#t=0:00), CC BY NC SA, by the artist analoc for disquiet0482 Exactly That Gap.
 
-[Little Green Aura](https://soundcloud.com/user-807707609/little-green-aura-micro-110422), CC BY NC SA, by he_nu_ri and lako by Ohm Research, for disquiet0566 Outdoor Furniture Music.
+[Little Green Aura](https://soundcloud.com/user-807707609/little-green-aura-micro-110422) CC BY NC SA, by he_nu_ri and [lako by Ohm Research](https://soundcloud.com/ohm-research/lako-disquiet0566), for disquiet0566 Outdoor Furniture Music.
 
 [four voice folly](https://soundcloud.com/caustic_gates/disquiet0565-four-voice-folly) by caustic_gates, CC BY NC SA, part of disquiet0565 Musical Folly.
 
