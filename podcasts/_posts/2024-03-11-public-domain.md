@@ -11,8 +11,8 @@ description: "In this episode we speak to Brewster Kahle, the Founder and Chief 
 people: ["Brewster Kahle","Amanda Levendowski"]
 tags: ["Public Domain", "Fair Use","Copyright"]
 code_tags: ["public_domain", "fair_use","copyright"]
-applePodcasts: ""
-spotify: ""
+applePodcasts: "https://podcasts.apple.com/us/podcast/fair-use-the-internet-archive-and-the-public-domain/id1536778522?i=1000650449611"
+spotify: "https://open.spotify.com/episode/1LorDSpRsHZBZwsZLJzjsf?si=c5bb1af30dea4aa9"
 tools: []
 tool_links: []
 fileLink: "https://mcdn.podbean.com/mf/web/w59736/A_H_Fair_Use_and_Public_Domain_Day_S2EP3_323belm9.mp3"
